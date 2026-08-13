@@ -1,0 +1,870 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-20T01:52:19Z",
+            "owner": "donnemartin",
+            "repo": "system-design-primer",
+            "stars": 363503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axelboc/anki-ultimate-geography",
+          "description": "Geography flashcard deck having different sovereign states, overseas territories and dependent areas, oceans, seas, and continents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T10:12:06Z",
+            "owner": "anki-geo",
+            "repo": "ultimate-geography",
+            "stars": 1153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "taivop/anki-decks",
+          "description": "Taivo Pungas's personal decks on his studies on AI and related topics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-06-07T12:47:03Z",
+            "owner": "taivop",
+            "repo": "anki-decks",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vojtechruz/spring-core-cert-notes-4.2",
+          "description": "Decks with notes for Spring Core Certification 4.2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-12-02T13:26:34Z",
+            "owner": "vojtechruz",
+            "repo": "spring-core-cert-notes-4.2",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "b3nj5m1n/anki-major-system",
+          "description": "A deck for learning the major system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-04-22T14:00:28Z",
+            "owner": "b3nj5m1n",
+            "repo": "anki-major-system",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Decks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "open-spaced-repetition/fsrs4anki",
+          "description": "A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-28T03:04:44Z",
+            "owner": "open-spaced-repetition",
+            "repo": "fsrs4anki",
+            "stars": 4040
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FooSoft/anki-connect",
+          "description": "Add-on to expose a remote API for creating flash cards.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-11-04T02:58:29Z",
+            "owner": "FooSoft",
+            "repo": "anki-connect",
+            "stars": 2077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glutanimate/review-heatmap",
+          "description": "Adds a heatmap graph to Anki's main window which visualizes past and future card review activity, similar to the contribution view on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-04T14:16:14Z",
+            "owner": "glutanimate",
+            "repo": "review-heatmap",
+            "stars": 1312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stvad/CrowdAnki",
+          "description": "Plugin for Anki SRS designed to facilitate cooperation on creation of notes and decks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T07:07:47Z",
+            "owner": "Stvad",
+            "repo": "CrowdAnki",
+            "stars": 639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AwesomeTTS/awesometts-anki-addon",
+          "description": "AwesomeTTS makes it easy for language-learners and other students to add speech to their personal Anki card decks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-24T05:49:36Z",
+            "owner": "AwesomeTTS",
+            "repo": "awesometts-anki-addon",
+            "stars": 501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glutanimate/image-occlusion-enhanced",
+          "description": "Image Occlusion Enhanced is an add-on for the spaced repetition flashcard app Anki. It allows you to create flashcards that hide parts of an image to test your knowledge of that hidden information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-22T16:36:04Z",
+            "owner": "glutanimate",
+            "repo": "image-occlusion-enhanced",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glutanimate/cloze-overlapper",
+          "description": "Facilitates memorizing enumerations, lists, or any other type of sequential information by breaking the sequence up into cards where each item serves as the context cue for the next.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-30T06:49:00Z",
+            "owner": "glutanimate",
+            "repo": "cloze-overlapper",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eshapard/AnkiHabitica",
+          "description": "Anki 2 add-on for use with Habitica. Places a progress bar on the bottom of the review screen and scores a Habitica habit when the progress bar reaches the end. Also shows your health, exp, and mana stats as percentages to the right of the progress bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-14T07:09:28Z",
+            "owner": "eshapard",
+            "repo": "AnkiHabitica",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glutanimate/anki-addons-misc",
+          "description": "This repository contains a collection of the small but useful Anki add-ons. For the more detailed table of contents, please see the descriptions of anki-addons-misc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-07T17:08:16Z",
+            "owner": "glutanimate",
+            "repo": "anki-addons-misc",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CravingCrates/AnkiCollab-Plugin",
+          "description": "The AnkiCollab-Plugin enables users to create and share Anki flashcard decks collaboratively, streamlining the card creation process and allowing for professional revisions to improve deck quality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T09:57:48Z",
+            "owner": "CravingCrates",
+            "repo": "AnkiCollab-Plugin",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "krassowski/Anki-Night-Mode",
+          "description": "This plugin adds the function of night mode, similar that one implemented in AnkiDroid.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-05-11T19:52:01Z",
+            "owner": "krassowski",
+            "repo": "Anki-Night-Mode",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roxgib/anki-contanki",
+          "description": "Add-on enabling controller to review cards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-26T12:35:23Z",
+            "owner": "roxgib",
+            "repo": "anki-contanki",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glutanimate/unified-remote-anki",
+          "description": "A simple custom remote for Anki. Review cards while on a treadmill or across the room.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-09-04T18:27:40Z",
+            "owner": "glutanimate",
+            "repo": "unified-remote-anki",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glutanimate/note-organizer",
+          "description": "Extends Anki's card browser with an easy-to-use dialog that provides the user with a multitude of different ways to organize and restructure their note collection. Actions supported by the add-on include changing the note order, inserting new notes at specific positions, and the ability to duplicate notes alongside their scheduling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-24T21:28:51Z",
+            "owner": "glutanimate",
+            "repo": "note-organizer",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jefdongus/insert-symbols-anki-addon",
+          "description": "Insert symbols as you type.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-25T16:02:56Z",
+            "owner": "jefdongus",
+            "repo": "insert-symbols-anki-addon",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glutanimate/colorful-tags",
+          "description": "Set custom color for sidebar tags.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-16T05:38:02Z",
+            "owner": "glutanimate",
+            "repo": "colorful-tags",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glutanimate/html-cleaner",
+          "description": "Cleans and minifies HTML content of the current field, removing extraneous tags and attributes copied over from apps like Word, Chrome, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-06-25T16:34:03Z",
+            "owner": "glutanimate",
+            "repo": "html-cleaner",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glutanimate/advanced-previewer",
+          "description": "Extends Anki's card previewer with such features: preview multiple cards at once; review cards from the previewer; show question or answer side by default.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-24T14:22:53Z",
+            "owner": "glutanimate",
+            "repo": "advanced-previewer",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glutanimate/highlight-search-results",
+          "description": "Highlight search results in browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-07T07:40:11Z",
+            "owner": "glutanimate",
+            "repo": "highlight-search-results",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glutanimate/sequence-inserter",
+          "description": "Allows you to define lists and sequences which can later be referenced in your cards through a special tag syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-02-09T14:32:44Z",
+            "owner": "glutanimate",
+            "repo": "sequence-inserter",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glutanimate/sticky-searches",
+          "description": "Adds a number of quick-toggles to the Browser search bar that allow you to preserve specific search parameters across multiple searches, so that you do not have to type them in repeatedly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-08-11T19:17:55Z",
+            "owner": "glutanimate",
+            "repo": "sticky-searches",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sillsdev/flashgrab",
+          "description": "Add-on for pulling flashcard data (one-way sync) from XML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-02T14:48:48Z",
+            "owner": "sillsdev",
+            "repo": "flashgrab",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gregorias/anki-image-scaler",
+          "description": "allows you to scale images directly in the WYSIWYG editor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-07-11T15:01:05Z",
+            "owner": "gregorias",
+            "repo": "anki-image-scaler",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sillsdev/flashgrid",
+          "description": "Add-on for drilling flashcards by selecting the correct card from a grid layout of several cards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-13T17:59:44Z",
+            "owner": "sillsdev",
+            "repo": "flashgrid",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sillsdev/flashfork",
+          "description": "Add-on for copying decks of flashcards, with or without also copying their note types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-02-05T21:46:00Z",
+            "owner": "sillsdev",
+            "repo": "flashfork",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Add-ons"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ninja33/anki-dict-helper",
+          "description": "Create Anki cards with Chrome extension automatically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-06T05:31:07Z",
+            "owner": "ninja33",
+            "repo": "anki-dict-helper",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "corollari/ankiTab",
+          "description": "Browser extension (Chrome, Firefox) that replaces the new tab page with Anki flashcards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-12T01:24:05Z",
+            "owner": "corollari",
+            "repo": "ankiTab",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "x-cod3r/Ai-Anki-Generator",
+          "description": "Ai based tool to automate the process of Anki deck creation, based on python and run on your local machine with ready to use compiled executable version.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-13T02:39:06Z",
+            "owner": "x-cod3r",
+            "repo": "Ai-Anki-Generator",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Browser extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ankicommunity/anki-sync-server",
+          "description": "A personal Anki sync server (so you can sync against your own server rather than AnkiWeb).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-25T12:28:20Z",
+            "owner": "ankicommunity",
+            "repo": "ankicommunity-sync-server",
+            "stars": 954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lervag/apy",
+          "description": "Python script to easily add cards to Anki. (Anki does not need to run at the same time)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T19:29:49Z",
+            "owner": "lervag",
+            "repo": "apy",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ohare93/brain-brew",
+          "description": "An open-source flashcard manipulation tool that enables users to convert their Anki flashcards to and from CrowdAnki Exports and CSV formats, with plans to add more formats in the future.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T11:15:06Z",
+            "owner": "jeprecated",
+            "repo": "brain-brew",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "psamim/kindle2anki",
+          "description": "A Python Script to add vocabularies from Kindle to Anki.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-07T15:05:57Z",
+            "owner": "psamim",
+            "repo": "kindle2anki",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "c-okelly/org_to_anki",
+          "description": "Tool to convert bullet point org files into Anki cards. Includes a tool to create new questions via the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-08T11:19:13Z",
+            "owner": "c-okelly",
+            "repo": "org_to_anki",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jamhed/anki",
+          "description": "These tools allow to use Google Translate service in command-line to translate words, and to retrieve Google Translate phrase books as a JSON list.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2018-01-04T20:45:44Z",
+            "owner": "jamhed",
+            "repo": "anki",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecator/anki-youdao2anki",
+          "description": "Help convert XML files exported by YouDao Dictionary to plain text files for Anki import.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-11-26T03:15:25Z",
+            "owner": "ecator",
+            "repo": "anki-youdao2anki",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AurelienLourot/lsankidb",
+          "description": "for your local Anki database. Dump/Print all your Anki terms in order to save them, search them, them or them.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-07-15T18:41:03Z",
+            "owner": "lourot",
+            "repo": "lsankidb",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "breizoreol/memanki-cli",
+          "description": "Converts a memrise lesson into one or several anki decks, given a memrise id taken from a lesson URL, ex: https://www.memrise.com/course/1123052/russian-1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-20T11:06:28Z",
+            "owner": "matthieu-rolland",
+            "repo": "memanki-cli",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "johnsutor/leetcode-study-tool",
+          "description": "Tool to generate Anki cards for LeetCode questions. Supports using custom questions or using popular presets (such as the Blind 75, Neetcode, etc...).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T16:23:36Z",
+            "owner": "johnsutor",
+            "repo": "leetcode-study-tool",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mindful/cardbuilder",
+          "description": "Generates language learning flashcards from a list of input words by automating dictionary lookup and flashcard construction; also usable as a Python library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-22T20:59:31Z",
+            "owner": "Mindful",
+            "repo": "cardbuilder",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VaiTon/ankitu",
+          "description": "A tool to import and export Anki decks in common formats (TOML, JSON, ...)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-06-27T16:47:19Z",
+            "owner": "VaiTon",
+            "repo": "ankituls",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rioverse/anki-ls",
+          "description": "Inspect Anki export files (.apkg) using the anki-ls CLI application. Returns the flashcard data as JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-27T10:42:44Z",
+            "owner": "Rioverse",
+            "repo": "anki-ls",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Command-line tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kerrickstaley/genanki",
+          "description": "Python library for generating Anki decks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-30T20:31:50Z",
+            "owner": "kerrickstaley",
+            "repo": "genanki",
+            "stars": 2671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "klieret/AnkiPandas",
+          "description": "Python library for analysing and manipulating Anki decks using pandas dataframes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T22:37:15Z",
+            "owner": "klieret",
+            "repo": "AnkiPandas",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yannickfunk/genanki-rs",
+          "description": "Rust library for generating Anki decks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-07-30T06:44:16Z",
+            "owner": "yannickfunk",
+            "repo": "genanki-rs",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "patarapolw/AnkiTools",
+          "description": "Python library for reading and files.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-10-31T07:57:51Z",
+            "owner": "patarapolw",
+            "repo": "AnkiTools",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flimzy/anki",
+          "description": "Go library to read Anki files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-07-04T21:26:09Z",
+            "owner": "flimzy",
+            "repo": "anki",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Archenoth/clj-anki",
+          "description": "Clojure Anki-file interaction library to read and write and files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-05-09T18:55:23Z",
+            "owner": "Archenoth",
+            "repo": "clj-anki",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eikowagenknecht/srs-converter",
+          "description": "A TypeScript library for converting between different spaced repetition system (SRS) formats, including Anki (.apkg and .colpkg).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T21:55:59Z",
+            "owner": "eikowagenknecht",
+            "repo": "srs-converter",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Programming libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "badlydrawnrob/anki",
+          "description": "Anki theme for programming snippets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-22T13:29:59Z",
+            "owner": "badlydrawnrob",
+            "repo": "anki",
+            "stars": 922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pranavdeshai/anki-prettify",
+          "description": "Collection of customizable Anki flashcard templates with modern and clean themes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2024-08-10T21:46:15Z",
+            "owner": "pranavdeshai",
+            "repo": "anki-prettify",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ikkz/anki-template",
+          "description": "Collection of customizable Anki templates designed for enhanced learning, featuring GPT integration, larger question text, dark/light modes, countdown motivation, and support for multiple-choice, true/false, and basic Q&A formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-12T15:39:06Z",
+            "owner": "ikkz",
+            "repo": "anki-eco",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "b3nj5m1n/moderncardthemes",
+          "description": "A collection of modern looking and functional card themes for different purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-02-11T20:53:52Z",
+            "owner": "b3nj5m1n",
+            "repo": "moderncardthemes",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asdfgeoff/anki-templates/mental-models",
+          "description": "A theme for learning mental models & concepts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2020-10-30T08:37:58Z",
+            "owner": "asdfgeoff",
+            "repo": "anki-templates",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Themes"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:57:46.813Z",
+    "original_repository": "tianshanghong/awesome-anki",
+    "original_repository_sha": "c78139aba36c6e76db20c2002cbe58d43feb1146",
+    "enhanced_repository": "enhansome/enhansome-anki",
+    "enhanced_repository_description": null,
+    "title": "Awesome Anki with stars"
+  }
+}
