@@ -19,7 +19,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 363503
+            "stars": 363589
           }
         },
         {
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:57:46.813Z",
+    "last_updated": "2026-08-13T13:38:26.582Z",
     "original_repository": "tianshanghong/awesome-anki",
     "original_repository_sha": "c78139aba36c6e76db20c2002cbe58d43feb1146",
     "enhanced_repository": "enhansome/enhansome-anki",
