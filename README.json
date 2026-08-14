@@ -19,7 +19,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 363589
+            "stars": 363725
           }
         },
         {
@@ -92,10 +92,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-07-28T03:04:44Z",
+            "last_commit": "2026-08-14T03:34:18Z",
             "owner": "open-spaced-repetition",
             "repo": "fsrs4anki",
-            "stars": 4040
+            "stars": 4037
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2025-11-04T02:58:29Z",
             "owner": "FooSoft",
             "repo": "anki-connect",
-            "stars": 2077
+            "stars": 2078
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2022-08-04T14:16:14Z",
             "owner": "glutanimate",
             "repo": "review-heatmap",
-            "stars": 1312
+            "stars": 1313
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2024-05-24T05:49:36Z",
             "owner": "AwesomeTTS",
             "repo": "awesometts-anki-addon",
-            "stars": 501
+            "stars": 502
           }
         },
         {
@@ -218,7 +218,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T09:57:48Z",
+            "last_commit": "2026-08-13T15:59:30Z",
             "owner": "CravingCrates",
             "repo": "AnkiCollab-Plugin",
             "stars": 129
@@ -515,7 +515,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T19:29:49Z",
+            "last_commit": "2026-08-14T11:10:49Z",
             "owner": "lervag",
             "repo": "apy",
             "stars": 349
@@ -796,7 +796,7 @@
             "last_commit": "2026-04-22T13:29:59Z",
             "owner": "badlydrawnrob",
             "repo": "anki",
-            "stars": 922
+            "stars": 923
           }
         },
         {
@@ -810,7 +810,7 @@
             "last_commit": "2024-08-10T21:46:15Z",
             "owner": "pranavdeshai",
             "repo": "anki-prettify",
-            "stars": 527
+            "stars": 528
           }
         },
         {
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T13:38:26.582Z",
+    "last_updated": "2026-08-14T13:34:18.159Z",
     "original_repository": "tianshanghong/awesome-anki",
     "original_repository_sha": "c78139aba36c6e76db20c2002cbe58d43feb1146",
     "enhanced_repository": "enhansome/enhansome-anki",
