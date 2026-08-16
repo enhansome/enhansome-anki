@@ -19,7 +19,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 363901
+            "stars": 364110
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2026-07-11T07:07:47Z",
             "owner": "Stvad",
             "repo": "CrowdAnki",
-            "stars": 639
+            "stars": 638
           }
         },
         {
@@ -218,10 +218,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T12:18:16Z",
+            "last_commit": "2026-08-15T19:07:21Z",
             "owner": "CravingCrates",
             "repo": "AnkiCollab-Plugin",
-            "stars": 129
+            "stars": 130
           }
         },
         {
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T12:54:52.996Z",
+    "last_updated": "2026-08-16T12:56:32.411Z",
     "original_repository": "tianshanghong/awesome-anki",
     "original_repository_sha": "c78139aba36c6e76db20c2002cbe58d43feb1146",
     "enhanced_repository": "enhansome/enhansome-anki",
