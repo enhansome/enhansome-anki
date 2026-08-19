@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Clients"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83222441,
             "language": "Python",
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 364580
+            "stars": 364830
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77503496,
             "language": "Python",
             "last_commit": "2026-07-27T10:12:06Z",
             "owner": "anki-geo",
             "repo": "ultimate-geography",
-            "stars": 1155
+            "stars": 1157
           }
         },
         {
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51706817,
             "language": null,
             "last_commit": "2019-06-07T12:47:03Z",
             "owner": "taivop",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67940728,
             "language": "Java",
             "last_commit": "2018-12-02T13:26:34Z",
             "owner": "vojtechruz",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 360528919,
             "language": null,
             "last_commit": "2021-04-22T14:00:28Z",
             "owner": "b3nj5m1n",
@@ -82,7 +82,7 @@
       "title": "Decks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -91,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 534168787,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-14T03:34:18Z",
             "owner": "open-spaced-repetition",
             "repo": "fsrs4anki",
-            "stars": 4040
+            "stars": 4043
           }
         },
         {
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 59382176,
             "language": "Python",
             "last_commit": "2025-11-04T02:58:29Z",
             "owner": "FooSoft",
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78292823,
             "language": "Python",
             "last_commit": "2022-08-04T14:16:14Z",
             "owner": "glutanimate",
@@ -133,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61444017,
             "language": "Python",
             "last_commit": "2026-07-11T07:07:47Z",
             "owner": "Stvad",
@@ -147,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81391291,
             "language": "Python",
             "last_commit": "2024-05-24T05:49:36Z",
             "owner": "AwesomeTTS",
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54893786,
             "language": "JavaScript",
             "last_commit": "2023-09-22T16:36:04Z",
             "owner": "glutanimate",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82444078,
             "language": "Python",
             "last_commit": "2021-12-30T06:49:00Z",
             "owner": "glutanimate",
@@ -189,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15212210,
             "language": "Python",
             "last_commit": "2026-01-14T07:09:28Z",
             "owner": "eshapard",
@@ -203,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52204024,
             "language": "Python",
             "last_commit": "2024-04-07T17:08:16Z",
             "owner": "glutanimate",
@@ -217,8 +226,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589735484,
             "language": "Python",
-            "last_commit": "2026-08-15T19:07:21Z",
+            "last_commit": "2026-08-18T15:09:26Z",
             "owner": "CravingCrates",
             "repo": "AnkiCollab-Plugin",
             "stars": 130
@@ -231,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 33514597,
             "language": "Python",
             "last_commit": "2020-05-11T19:52:01Z",
             "owner": "krassowski",
@@ -245,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 448125330,
             "language": "Python",
             "last_commit": "2024-06-26T12:35:23Z",
             "owner": "roxgib",
@@ -259,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41060437,
             "language": "Lua",
             "last_commit": "2018-09-04T18:27:40Z",
             "owner": "glutanimate",
@@ -273,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88202131,
             "language": "Python",
             "last_commit": "2020-03-24T21:28:51Z",
             "owner": "glutanimate",
@@ -287,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113365888,
             "language": "Python",
             "last_commit": "2026-01-25T16:02:56Z",
             "owner": "jefdongus",
@@ -301,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233240279,
             "language": "Python",
             "last_commit": "2023-02-16T05:38:02Z",
             "owner": "glutanimate",
@@ -315,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92198227,
             "language": "C",
             "last_commit": "2020-06-25T16:34:03Z",
             "owner": "glutanimate",
@@ -329,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84891233,
             "language": "Python",
             "last_commit": "2018-02-24T14:22:53Z",
             "owner": "glutanimate",
@@ -343,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261306793,
             "language": "Python",
             "last_commit": "2024-08-07T07:40:11Z",
             "owner": "glutanimate",
@@ -357,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85106600,
             "language": "Python",
             "last_commit": "2019-02-09T14:32:44Z",
             "owner": "glutanimate",
@@ -371,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98430528,
             "language": "Python",
             "last_commit": "2017-08-11T19:17:55Z",
             "owner": "glutanimate",
@@ -385,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28093234,
             "language": "Python",
             "last_commit": "2026-02-02T14:48:48Z",
             "owner": "sillsdev",
@@ -399,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 260854267,
             "language": "Python",
             "last_commit": "2026-07-11T15:01:05Z",
             "owner": "gregorias",
@@ -413,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28094543,
             "language": "Python",
             "last_commit": "2022-09-13T17:59:44Z",
             "owner": "sillsdev",
@@ -427,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41222531,
             "language": "Python",
             "last_commit": "2016-02-05T21:46:00Z",
             "owner": "sillsdev",
@@ -438,352 +463,379 @@
       "title": "Add-ons"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ninja33/anki-dict-helper",
+              "description": "Create Anki cards with Chrome extension automatically.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65912192,
+                "language": "JavaScript",
+                "last_commit": "2024-05-06T05:31:07Z",
+                "owner": "ninja33",
+                "repo": "anki-dict-helper",
+                "stars": 403
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "corollari/ankiTab",
+              "description": "Browser extension (Chrome, Firefox) that replaces the new tab page with Anki flashcards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145312393,
+                "language": "JavaScript",
+                "last_commit": "2021-11-12T01:24:05Z",
+                "owner": "corollari",
+                "repo": "ankiTab",
+                "stars": 201
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "x-cod3r/Ai-Anki-Generator",
+              "description": "Ai based tool to automate the process of Anki deck creation, based on python and run on your local machine with ready to use compiled executable version.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 914085208,
+                "language": "Python",
+                "last_commit": "2025-06-13T02:39:06Z",
+                "owner": "x-cod3r",
+                "repo": "Ai-Anki-Generator",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Browser extensions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ankicommunity/anki-sync-server",
+              "description": "A personal Anki sync server (so you can sync against your own server rather than AnkiWeb).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183618761,
+                "language": "Python",
+                "last_commit": "2024-09-25T12:28:20Z",
+                "owner": "ankicommunity",
+                "repo": "ankicommunity-sync-server",
+                "stars": 954
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lervag/apy",
+              "description": "Python script to easily add cards to Anki. (Anki does not need to run at the same time)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205250179,
+                "language": "Python",
+                "last_commit": "2026-08-14T11:10:49Z",
+                "owner": "lervag",
+                "repo": "apy",
+                "stars": 349
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ohare93/brain-brew",
+              "description": "An open-source flashcard manipulation tool that enables users to convert their Anki flashcards to and from CrowdAnki Exports and CSV formats, with plans to add more formats in the future.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254617397,
+                "language": "Python",
+                "last_commit": "2026-08-07T11:15:06Z",
+                "owner": "jeprecated",
+                "repo": "brain-brew",
+                "stars": 115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "psamim/kindle2anki",
+              "description": "A Python Script to add vocabularies from Kindle to Anki.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65180844,
+                "language": "Python",
+                "last_commit": "2023-07-07T15:05:57Z",
+                "owner": "psamim",
+                "repo": "kindle2anki",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "c-okelly/org_to_anki",
+              "description": "Tool to convert bullet point org files into Anki cards. Includes a tool to create new questions via the command line.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92509799,
+                "language": "Python",
+                "last_commit": "2022-09-08T11:19:13Z",
+                "owner": "c-okelly",
+                "repo": "org_to_anki",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jamhed/anki",
+              "description": "These tools allow to use Google Translate service in command-line to translate words, and to retrieve Google Translate phrase books as a JSON list.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25396690,
+                "language": "Perl",
+                "last_commit": "2018-01-04T20:45:44Z",
+                "owner": "jamhed",
+                "repo": "anki",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ecator/anki-youdao2anki",
+              "description": "Help convert XML files exported by YouDao Dictionary to plain text files for Anki import.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74213195,
+                "language": "Python",
+                "last_commit": "2017-11-26T03:15:25Z",
+                "owner": "ecator",
+                "repo": "anki-youdao2anki",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AurelienLourot/lsankidb",
+              "description": "for your local Anki database. Dump/Print all your Anki terms in order to save them, search them, them or them.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 130388141,
+                "language": "Python",
+                "last_commit": "2022-07-15T18:41:03Z",
+                "owner": "lourot",
+                "repo": "lsankidb",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "breizoreol/memanki-cli",
+              "description": "Converts a memrise lesson into one or several anki decks, given a memrise id taken from a lesson URL, ex: https://www.memrise.com/course/1123052/russian-1",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89864954,
+                "language": "JavaScript",
+                "last_commit": "2019-02-20T11:06:28Z",
+                "owner": "matthieu-rolland",
+                "repo": "memanki-cli",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "johnsutor/leetcode-study-tool",
+              "description": "Tool to generate Anki cards for LeetCode questions. Supports using custom questions or using popular presets (such as the Blind 75, Neetcode, etc...).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 677767766,
+                "language": "Python",
+                "last_commit": "2026-02-08T16:23:36Z",
+                "owner": "johnsutor",
+                "repo": "leetcode-study-tool",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mindful/cardbuilder",
+              "description": "Generates language learning flashcards from a list of input words by automating dictionary lookup and flashcard construction; also usable as a Python library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 336510744,
+                "language": "Python",
+                "last_commit": "2024-09-22T20:59:31Z",
+                "owner": "Mindful",
+                "repo": "cardbuilder",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VaiTon/ankitu",
+              "description": "A tool to import and export Anki decks in common formats (TOML, JSON, ...)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 651709013,
+                "language": "Go",
+                "last_commit": "2025-06-27T16:47:19Z",
+                "owner": "VaiTon",
+                "repo": "ankituls",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rioverse/anki-ls",
+              "description": "Inspect Anki export files (.apkg) using the anki-ls CLI application. Returns the flashcard data as JSON.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1045516071,
+                "language": "TypeScript",
+                "last_commit": "2025-08-27T10:42:44Z",
+                "owner": "Rioverse",
+                "repo": "anki-ls",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Command-line tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kerrickstaley/genanki",
+              "description": "Python library for generating Anki decks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81927667,
+                "language": "Python",
+                "last_commit": "2024-12-30T20:31:50Z",
+                "owner": "kerrickstaley",
+                "repo": "genanki",
+                "stars": 2677
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "klieret/AnkiPandas",
+              "description": "Python library for analysing and manipulating Anki decks using pandas dataframes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181918652,
+                "language": "Python",
+                "last_commit": "2026-08-03T22:37:15Z",
+                "owner": "klieret",
+                "repo": "AnkiPandas",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yannickfunk/genanki-rs",
+              "description": "Rust library for generating Anki decks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 363447269,
+                "language": "Rust",
+                "last_commit": "2024-07-30T06:44:16Z",
+                "owner": "yannickfunk",
+                "repo": "genanki-rs",
+                "stars": 128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "patarapolw/AnkiTools",
+              "description": "Python library for reading and files.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 120288588,
+                "language": "Python",
+                "last_commit": "2018-10-31T07:57:51Z",
+                "owner": "patarapolw",
+                "repo": "AnkiTools",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flimzy/anki",
+              "description": "Go library to read Anki files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59902362,
+                "language": "Go",
+                "last_commit": "2020-07-04T21:26:09Z",
+                "owner": "flimzy",
+                "repo": "anki",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Archenoth/clj-anki",
+              "description": "Clojure Anki-file interaction library to read and write and files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76706797,
+                "language": "Clojure",
+                "last_commit": "2023-05-09T18:55:23Z",
+                "owner": "Archenoth",
+                "repo": "clj-anki",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eikowagenknecht/srs-converter",
+              "description": "A TypeScript library for converting between different spaced repetition system (SRS) formats, including Anki (.apkg and .colpkg).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1036753071,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T21:57:45Z",
+                "owner": "eikowagenknecht",
+                "repo": "srs-converter",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Programming libraries"
+        }
+      ],
       "title": "Tools"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ninja33/anki-dict-helper",
-          "description": "Create Anki cards with Chrome extension automatically.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-05-06T05:31:07Z",
-            "owner": "ninja33",
-            "repo": "anki-dict-helper",
-            "stars": 403
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "corollari/ankiTab",
-          "description": "Browser extension (Chrome, Firefox) that replaces the new tab page with Anki flashcards.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-11-12T01:24:05Z",
-            "owner": "corollari",
-            "repo": "ankiTab",
-            "stars": 201
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "x-cod3r/Ai-Anki-Generator",
-          "description": "Ai based tool to automate the process of Anki deck creation, based on python and run on your local machine with ready to use compiled executable version.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-13T02:39:06Z",
-            "owner": "x-cod3r",
-            "repo": "Ai-Anki-Generator",
-            "stars": 19
-          }
-        }
-      ],
-      "title": "Browser extensions"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ankicommunity/anki-sync-server",
-          "description": "A personal Anki sync server (so you can sync against your own server rather than AnkiWeb).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-25T12:28:20Z",
-            "owner": "ankicommunity",
-            "repo": "ankicommunity-sync-server",
-            "stars": 954
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lervag/apy",
-          "description": "Python script to easily add cards to Anki. (Anki does not need to run at the same time)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T11:10:49Z",
-            "owner": "lervag",
-            "repo": "apy",
-            "stars": 349
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ohare93/brain-brew",
-          "description": "An open-source flashcard manipulation tool that enables users to convert their Anki flashcards to and from CrowdAnki Exports and CSV formats, with plans to add more formats in the future.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-07T11:15:06Z",
-            "owner": "jeprecated",
-            "repo": "brain-brew",
-            "stars": 115
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "psamim/kindle2anki",
-          "description": "A Python Script to add vocabularies from Kindle to Anki.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-07T15:05:57Z",
-            "owner": "psamim",
-            "repo": "kindle2anki",
-            "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "c-okelly/org_to_anki",
-          "description": "Tool to convert bullet point org files into Anki cards. Includes a tool to create new questions via the command line.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-08T11:19:13Z",
-            "owner": "c-okelly",
-            "repo": "org_to_anki",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jamhed/anki",
-          "description": "These tools allow to use Google Translate service in command-line to translate words, and to retrieve Google Translate phrase books as a JSON list.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2018-01-04T20:45:44Z",
-            "owner": "jamhed",
-            "repo": "anki",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ecator/anki-youdao2anki",
-          "description": "Help convert XML files exported by YouDao Dictionary to plain text files for Anki import.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-11-26T03:15:25Z",
-            "owner": "ecator",
-            "repo": "anki-youdao2anki",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AurelienLourot/lsankidb",
-          "description": "for your local Anki database. Dump/Print all your Anki terms in order to save them, search them, them or them.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-07-15T18:41:03Z",
-            "owner": "lourot",
-            "repo": "lsankidb",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "breizoreol/memanki-cli",
-          "description": "Converts a memrise lesson into one or several anki decks, given a memrise id taken from a lesson URL, ex: https://www.memrise.com/course/1123052/russian-1",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-02-20T11:06:28Z",
-            "owner": "matthieu-rolland",
-            "repo": "memanki-cli",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "johnsutor/leetcode-study-tool",
-          "description": "Tool to generate Anki cards for LeetCode questions. Supports using custom questions or using popular presets (such as the Blind 75, Neetcode, etc...).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-08T16:23:36Z",
-            "owner": "johnsutor",
-            "repo": "leetcode-study-tool",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mindful/cardbuilder",
-          "description": "Generates language learning flashcards from a list of input words by automating dictionary lookup and flashcard construction; also usable as a Python library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-22T20:59:31Z",
-            "owner": "Mindful",
-            "repo": "cardbuilder",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VaiTon/ankitu",
-          "description": "A tool to import and export Anki decks in common formats (TOML, JSON, ...)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-06-27T16:47:19Z",
-            "owner": "VaiTon",
-            "repo": "ankituls",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rioverse/anki-ls",
-          "description": "Inspect Anki export files (.apkg) using the anki-ls CLI application. Returns the flashcard data as JSON.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-08-27T10:42:44Z",
-            "owner": "Rioverse",
-            "repo": "anki-ls",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Command-line tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "kerrickstaley/genanki",
-          "description": "Python library for generating Anki decks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-30T20:31:50Z",
-            "owner": "kerrickstaley",
-            "repo": "genanki",
-            "stars": 2675
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "klieret/AnkiPandas",
-          "description": "Python library for analysing and manipulating Anki decks using pandas dataframes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T22:37:15Z",
-            "owner": "klieret",
-            "repo": "AnkiPandas",
-            "stars": 155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yannickfunk/genanki-rs",
-          "description": "Rust library for generating Anki decks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-07-30T06:44:16Z",
-            "owner": "yannickfunk",
-            "repo": "genanki-rs",
-            "stars": 128
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "patarapolw/AnkiTools",
-          "description": "Python library for reading and files.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2018-10-31T07:57:51Z",
-            "owner": "patarapolw",
-            "repo": "AnkiTools",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flimzy/anki",
-          "description": "Go library to read Anki files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2020-07-04T21:26:09Z",
-            "owner": "flimzy",
-            "repo": "anki",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Archenoth/clj-anki",
-          "description": "Clojure Anki-file interaction library to read and write and files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2023-05-09T18:55:23Z",
-            "owner": "Archenoth",
-            "repo": "clj-anki",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eikowagenknecht/srs-converter",
-          "description": "A TypeScript library for converting between different spaced repetition system (SRS) formats, including Anki (.apkg and .colpkg).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T21:57:45Z",
-            "owner": "eikowagenknecht",
-            "repo": "srs-converter",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Programming libraries"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -792,6 +844,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37747361,
             "language": "HTML",
             "last_commit": "2026-04-22T13:29:59Z",
             "owner": "badlydrawnrob",
@@ -806,6 +859,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445784188,
             "language": "SCSS",
             "last_commit": "2024-08-10T21:46:15Z",
             "owner": "pranavdeshai",
@@ -820,6 +874,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 853226286,
             "language": "TypeScript",
             "last_commit": "2026-07-12T15:39:06Z",
             "owner": "ikkz",
@@ -834,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246136925,
             "language": null,
             "last_commit": "2022-02-11T20:53:52Z",
             "owner": "b3nj5m1n",
@@ -848,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268036724,
             "language": "CSS",
             "last_commit": "2020-10-30T08:37:58Z",
             "owner": "asdfgeoff",
@@ -860,8 +917,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:03:21.096Z",
+    "last_updated": "2026-08-19T12:18:34.602Z",
     "original_repository": "tianshanghong/awesome-anki",
+    "original_repository_id": 126348760,
     "original_repository_sha": "c78139aba36c6e76db20c2002cbe58d43feb1146",
     "enhanced_repository": "enhansome/enhansome-anki",
     "enhanced_repository_description": null,
