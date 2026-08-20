@@ -15,7 +15,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 364838
+            "stars": 365030
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-27T10:12:06Z",
             "owner": "anki-geo",
             "repo": "ultimate-geography",
-            "stars": 1157
+            "stars": 1158
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-14T03:34:18Z",
             "owner": "open-spaced-repetition",
             "repo": "fsrs4anki",
-            "stars": 4043
+            "stars": 4045
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2025-11-04T02:58:29Z",
             "owner": "FooSoft",
             "repo": "anki-connect",
-            "stars": 2079
+            "stars": 2078
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2024-05-24T05:49:36Z",
             "owner": "AwesomeTTS",
             "repo": "awesometts-anki-addon",
-            "stars": 502
+            "stars": 503
           }
         },
         {
@@ -733,7 +733,7 @@
                 "last_commit": "2024-12-30T20:31:50Z",
                 "owner": "kerrickstaley",
                 "repo": "genanki",
-                "stars": 2677
+                "stars": 2676
               }
             },
             {
@@ -876,7 +876,7 @@
             "archived": false,
             "id": 853226286,
             "language": "TypeScript",
-            "last_commit": "2026-07-12T15:39:06Z",
+            "last_commit": "2026-08-20T07:11:46Z",
             "owner": "ikkz",
             "repo": "anki-eco",
             "stars": 117
@@ -917,7 +917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:04:09.509Z",
+    "last_updated": "2026-08-20T13:06:17.138Z",
     "original_repository": "tianshanghong/awesome-anki",
     "original_repository_id": 126348760,
     "original_repository_sha": "c78139aba36c6e76db20c2002cbe58d43feb1146",
