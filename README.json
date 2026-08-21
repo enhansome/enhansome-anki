@@ -15,7 +15,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 365030
+            "stars": 365219
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2019-06-07T12:47:03Z",
             "owner": "taivop",
             "repo": "anki-decks",
-            "stars": 255
+            "stars": 254
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-14T03:34:18Z",
             "owner": "open-spaced-repetition",
             "repo": "fsrs4anki",
-            "stars": 4045
+            "stars": 4044
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2021-12-30T06:49:00Z",
             "owner": "glutanimate",
             "repo": "cloze-overlapper",
-            "stars": 246
+            "stars": 244
           }
         },
         {
@@ -543,7 +543,7 @@
                 "archived": false,
                 "id": 205250179,
                 "language": "Python",
-                "last_commit": "2026-08-14T11:10:49Z",
+                "last_commit": "2026-08-21T09:09:45Z",
                 "owner": "lervag",
                 "repo": "apy",
                 "stars": 349
@@ -733,7 +733,7 @@
                 "last_commit": "2024-12-30T20:31:50Z",
                 "owner": "kerrickstaley",
                 "repo": "genanki",
-                "stars": 2676
+                "stars": 2674
               }
             },
             {
@@ -917,7 +917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:06:17.138Z",
+    "last_updated": "2026-08-21T13:05:32.644Z",
     "original_repository": "tianshanghong/awesome-anki",
     "original_repository_id": 126348760,
     "original_repository_sha": "c78139aba36c6e76db20c2002cbe58d43feb1146",
