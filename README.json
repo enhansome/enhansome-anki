@@ -15,7 +15,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 365219
+            "stars": 365383
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-14T03:34:18Z",
             "owner": "open-spaced-repetition",
             "repo": "fsrs4anki",
-            "stars": 4044
+            "stars": 4047
           }
         },
         {
@@ -543,7 +543,7 @@
                 "archived": false,
                 "id": 205250179,
                 "language": "Python",
-                "last_commit": "2026-08-21T09:09:45Z",
+                "last_commit": "2026-08-22T12:55:26Z",
                 "owner": "lervag",
                 "repo": "apy",
                 "stars": 349
@@ -917,7 +917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:05:32.644Z",
+    "last_updated": "2026-08-22T12:56:35.892Z",
     "original_repository": "tianshanghong/awesome-anki",
     "original_repository_id": 126348760,
     "original_repository_sha": "c78139aba36c6e76db20c2002cbe58d43feb1146",
