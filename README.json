@@ -15,7 +15,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 365383
+            "stars": 365557
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-27T10:12:06Z",
             "owner": "anki-geo",
             "repo": "ultimate-geography",
-            "stars": 1158
+            "stars": 1160
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-14T03:34:18Z",
             "owner": "open-spaced-repetition",
             "repo": "fsrs4anki",
-            "stars": 4047
+            "stars": 4048
           }
         },
         {
@@ -509,7 +509,7 @@
                 "last_commit": "2025-06-13T02:39:06Z",
                 "owner": "x-cod3r",
                 "repo": "Ai-Anki-Generator",
-                "stars": 19
+                "stars": 20
               }
             }
           ],
@@ -733,7 +733,7 @@
                 "last_commit": "2024-12-30T20:31:50Z",
                 "owner": "kerrickstaley",
                 "repo": "genanki",
-                "stars": 2674
+                "stars": 2676
               }
             },
             {
@@ -820,7 +820,7 @@
                 "archived": false,
                 "id": 1036753071,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T21:57:45Z",
+                "last_commit": "2026-08-23T12:37:22Z",
                 "owner": "eikowagenknecht",
                 "repo": "srs-converter",
                 "stars": 14
@@ -864,7 +864,7 @@
             "last_commit": "2024-08-10T21:46:15Z",
             "owner": "pranavdeshai",
             "repo": "anki-prettify",
-            "stars": 530
+            "stars": 531
           }
         },
         {
@@ -917,7 +917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T12:56:35.892Z",
+    "last_updated": "2026-08-23T12:57:43.236Z",
     "original_repository": "tianshanghong/awesome-anki",
     "original_repository_id": 126348760,
     "original_repository_sha": "c78139aba36c6e76db20c2002cbe58d43feb1146",
