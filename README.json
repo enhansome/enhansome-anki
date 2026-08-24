@@ -15,7 +15,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 365557
+            "stars": 365708
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-27T10:12:06Z",
             "owner": "anki-geo",
             "repo": "ultimate-geography",
-            "stars": 1160
+            "stars": 1161
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-14T03:34:18Z",
             "owner": "open-spaced-repetition",
             "repo": "fsrs4anki",
-            "stars": 4048
+            "stars": 4051
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2025-11-04T02:58:29Z",
             "owner": "FooSoft",
             "repo": "anki-connect",
-            "stars": 2078
+            "stars": 2079
           }
         },
         {
@@ -479,7 +479,7 @@
                 "last_commit": "2024-05-06T05:31:07Z",
                 "owner": "ninja33",
                 "repo": "anki-dict-helper",
-                "stars": 403
+                "stars": 404
               }
             },
             {
@@ -733,7 +733,7 @@
                 "last_commit": "2024-12-30T20:31:50Z",
                 "owner": "kerrickstaley",
                 "repo": "genanki",
-                "stars": 2676
+                "stars": 2677
               }
             },
             {
@@ -793,7 +793,7 @@
                 "last_commit": "2020-07-04T21:26:09Z",
                 "owner": "flimzy",
                 "repo": "anki",
-                "stars": 52
+                "stars": 53
               }
             },
             {
@@ -864,7 +864,7 @@
             "last_commit": "2024-08-10T21:46:15Z",
             "owner": "pranavdeshai",
             "repo": "anki-prettify",
-            "stars": 531
+            "stars": 534
           }
         },
         {
@@ -917,7 +917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T12:57:43.236Z",
+    "last_updated": "2026-08-24T13:07:59.382Z",
     "original_repository": "tianshanghong/awesome-anki",
     "original_repository_id": 126348760,
     "original_repository_sha": "c78139aba36c6e76db20c2002cbe58d43feb1146",
