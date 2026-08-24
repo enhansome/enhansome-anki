@@ -5,6 +5,42 @@
       "items": [
         {
           "node_type": "item",
+          "title": "anki",
+          "description": "Anki for desktop computers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7270538,
+            "language": "Rust",
+            "last_commit": "2026-08-24T13:22:23Z",
+            "owner": "ankitects",
+            "repo": "anki",
+            "stars": 30009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ankidroid",
+          "description": "AnkiDroid: Anki on Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7716883,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T11:04:59Z",
+            "owner": "ankidroid",
+            "repo": "Anki-Android",
+            "stars": 11611
+          }
+        }
+      ],
+      "title": "Clients"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "donnemartin/system-design-primer",
           "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
           "children": [],
@@ -15,7 +51,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 365708
+            "stars": 365719
           }
         },
         {
@@ -30,7 +66,7 @@
             "last_commit": "2026-07-27T10:12:06Z",
             "owner": "anki-geo",
             "repo": "ultimate-geography",
-            "stars": 1161
+            "stars": 1162
           }
         },
         {
@@ -723,6 +759,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Nonameentered/flashcard-adder",
+              "description": "An alternative iOS interface for adding flashcards into AnkiMobile providing features like an action extension. App Store and a short playlist of tutorials is up on YouTube.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306538866,
+                "language": "Swift",
+                "last_commit": "2022-06-29T13:28:43Z",
+                "owner": "Nonameentered",
+                "repo": "Flashcard-Adder",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "iOS helper apps"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "damaru2/ankigenbot",
+              "description": "@ankigen_bot, Telegram bot to automatically generate and upload anki cards to ankisrs.net.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74177199,
+                "language": "Python",
+                "last_commit": "2026-05-24T16:46:50Z",
+                "owner": "damaru2",
+                "repo": "ankigenbot",
+                "stars": 91
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Telegram bots"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "kerrickstaley/genanki",
               "description": "Python library for generating Anki decks.",
               "children": [],
@@ -917,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:07:59.382Z",
+    "last_updated": "2026-08-24T14:05:04.798Z",
     "original_repository": "tianshanghong/awesome-anki",
     "original_repository_id": 126348760,
     "original_repository_sha": "c78139aba36c6e76db20c2002cbe58d43feb1146",
