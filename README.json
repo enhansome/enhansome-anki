@@ -12,10 +12,10 @@
             "archived": false,
             "id": 7270538,
             "language": "Rust",
-            "last_commit": "2026-08-24T21:11:42Z",
+            "last_commit": "2026-08-25T09:30:56Z",
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 30027
+            "stars": 30028
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T23:45:22Z",
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 11613
+            "stars": 11614
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 365863
+            "stars": 365931
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-14T03:34:18Z",
             "owner": "open-spaced-repetition",
             "repo": "fsrs4anki",
-            "stars": 4051
+            "stars": 4052
           }
         },
         {
@@ -997,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:13.905Z",
+    "last_updated": "2026-08-25T13:06:03.394Z",
     "original_repository": "tianshanghong/awesome-anki",
     "original_repository_id": 126348760,
     "original_repository_sha": "c78139aba36c6e76db20c2002cbe58d43feb1146",
