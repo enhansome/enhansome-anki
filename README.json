@@ -12,10 +12,10 @@
             "archived": false,
             "id": 7270538,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:22:23Z",
+            "last_commit": "2026-08-24T21:11:42Z",
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 30009
+            "stars": 30027
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 7716883,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T11:04:59Z",
+            "last_commit": "2026-08-24T23:45:22Z",
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 11611
+            "stars": 11613
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 365719
+            "stars": 365863
           }
         },
         {
@@ -813,7 +813,7 @@
                 "last_commit": "2024-12-30T20:31:50Z",
                 "owner": "kerrickstaley",
                 "repo": "genanki",
-                "stars": 2677
+                "stars": 2678
               }
             },
             {
@@ -900,7 +900,7 @@
                 "archived": false,
                 "id": 1036753071,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T12:37:22Z",
+                "last_commit": "2026-08-24T21:56:00Z",
                 "owner": "eikowagenknecht",
                 "repo": "srs-converter",
                 "stars": 14
@@ -944,7 +944,7 @@
             "last_commit": "2024-08-10T21:46:15Z",
             "owner": "pranavdeshai",
             "repo": "anki-prettify",
-            "stars": 534
+            "stars": 533
           }
         },
         {
@@ -997,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:05:04.798Z",
+    "last_updated": "2026-08-25T05:57:13.905Z",
     "original_repository": "tianshanghong/awesome-anki",
     "original_repository_id": 126348760,
     "original_repository_sha": "c78139aba36c6e76db20c2002cbe58d43feb1146",
