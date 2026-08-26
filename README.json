@@ -12,10 +12,10 @@
             "archived": false,
             "id": 7270538,
             "language": "Rust",
-            "last_commit": "2026-08-25T09:30:56Z",
+            "last_commit": "2026-08-26T09:51:35Z",
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 30028
+            "stars": 30041
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T23:45:22Z",
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 11614
+            "stars": 11624
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 365931
+            "stars": 366137
           }
         },
         {
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 77503496,
             "language": "Python",
-            "last_commit": "2026-07-27T10:12:06Z",
+            "last_commit": "2026-08-26T07:28:37Z",
             "owner": "anki-geo",
             "repo": "ultimate-geography",
             "stars": 1162
@@ -81,7 +81,7 @@
             "last_commit": "2019-06-07T12:47:03Z",
             "owner": "taivop",
             "repo": "anki-decks",
-            "stars": 254
+            "stars": 255
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-14T03:34:18Z",
             "owner": "open-spaced-repetition",
             "repo": "fsrs4anki",
-            "stars": 4052
+            "stars": 4053
           }
         },
         {
@@ -567,7 +567,7 @@
                 "last_commit": "2024-09-25T12:28:20Z",
                 "owner": "ankicommunity",
                 "repo": "ankicommunity-sync-server",
-                "stars": 954
+                "stars": 956
               }
             },
             {
@@ -929,7 +929,7 @@
             "last_commit": "2026-04-22T13:29:59Z",
             "owner": "badlydrawnrob",
             "repo": "anki",
-            "stars": 924
+            "stars": 923
           }
         },
         {
@@ -997,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:06:03.394Z",
+    "last_updated": "2026-08-26T13:10:58.114Z",
     "original_repository": "tianshanghong/awesome-anki",
     "original_repository_id": 126348760,
     "original_repository_sha": "c78139aba36c6e76db20c2002cbe58d43feb1146",
