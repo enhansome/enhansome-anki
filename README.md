@@ -1,8 +1,8 @@
-[<img src="https://rawgit.com/tianshanghong/awesome-anki/master/thirdparty/logo.png" align="left" width="64" height="64">](https://github.com/tianshanghong/awesome-anki) ⭐ 2,082 | 🐛 9 | 📅 2026-01-02
+[<img src="https://rawgit.com/tianshanghong/awesome-anki/master/thirdparty/logo.png" align="left" width="64" height="64">](https://github.com/tianshanghong/awesome-anki) ⭐ 2,082 | 🐛 10 | 📅 2026-01-02
 
 # Awesome Anki with stars
 
-A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 30,041 | 🐛 438 | 🌐 Rust | 📅 2026-08-26 add-ons, decks and resources. Feel free to suggest new projects in [Issues](https://github.com/tianshanghong/awesome-anki/issues) ⭐ 2,082 | 🐛 9 | 📅 2026-01-02 or PR directly.
+A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 30,071 | 🐛 429 | 🌐 Rust | 📅 2026-08-26 add-ons, decks and resources. Feel free to suggest new projects in [Issues](https://github.com/tianshanghong/awesome-anki/issues) ⭐ 2,082 | 🐛 10 | 📅 2026-01-02 or PR directly.
 
 ## Table of Contents
 
@@ -28,13 +28,13 @@ A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 30,041 | 🐛 
 
 | Name       | Link                                                                                                                                                                          | Description                              |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| anki       | [![GitHub stars](https://img.shields.io/github/stars/ankitects/anki.svg)](https://github.com/ankitects/anki) ⭐ 30,041 \| 🐛 438 \| 🌐 Rust \| 📅 2026-08-26                   | Anki for desktop computers               |
-| ankidroid  | [![GitHub stars](https://img.shields.io/github/stars/ankidroid/Anki-Android.svg)](https://github.com/ankidroid/Anki-Android) ⭐ 11,624 \| 🐛 371 \| 🌐 Kotlin \| 📅 2026-08-24 | AnkiDroid: Anki on Android               |
+| anki       | [![GitHub stars](https://img.shields.io/github/stars/ankitects/anki.svg)](https://github.com/ankitects/anki) ⭐ 30,071 \| 🐛 429 \| 🌐 Rust \| 📅 2026-08-26                   | Anki for desktop computers               |
+| ankidroid  | [![GitHub stars](https://img.shields.io/github/stars/ankidroid/Anki-Android.svg)](https://github.com/ankidroid/Anki-Android) ⭐ 11,629 \| 🐛 379 \| 🌐 Kotlin \| 📅 2026-08-27 | AnkiDroid: Anki on Android               |
 | AnkiMobile | [AnkiMobile Flashcards](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8)                                                                               | Anki for iOS devices (*Not Open Source*) |
 
 ## Decks
 
-* [donnemartin/system-design-primer ![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg)](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards) ⭐ 366,137 | 🐛 612 | 🌐 Python | 📅 2026-03-20 - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+* [donnemartin/system-design-primer ![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg)](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards) ⭐ 366,322 | 🐛 611 | 🌐 Python | 📅 2026-03-20 - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 * [axelboc/anki-ultimate-geography ![GitHub stars](https://img.shields.io/github/stars/axelboc/anki-ultimate-geography.svg)](https://github.com/axelboc/anki-ultimate-geography) ⭐ 1,162 | 🐛 54 | 🌐 Python | 📅 2026-08-26 - Geography flashcard deck having different sovereign states, overseas territories and dependent areas, oceans, seas, and continents.
 
@@ -156,7 +156,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 30,041 | 🐛 
 
 ### Programming libraries
 
-* [kerrickstaley/genanki ![GitHub stars](https://img.shields.io/github/stars/kerrickstaley/genanki.svg)](https://github.com/kerrickstaley/genanki) ⭐ 2,678 | 🐛 36 | 🌐 Python | 📅 2024-12-30 - Python library for generating Anki decks.
+* [kerrickstaley/genanki ![GitHub stars](https://img.shields.io/github/stars/kerrickstaley/genanki.svg)](https://github.com/kerrickstaley/genanki) ⭐ 2,679 | 🐛 36 | 🌐 Python | 📅 2024-12-30 - Python library for generating Anki decks.
 
 * [klieret/AnkiPandas ![GitHub stars](https://img.shields.io/github/stars/klieret/AnkiPandas.svg)](https://github.com/klieret/AnkiPandas) ⭐ 155 | 🐛 25 | 🌐 Python | 📅 2026-08-03 - Python library for analysing and manipulating Anki decks using pandas dataframes.
 
@@ -164,9 +164,9 @@ A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 30,041 | 🐛 
 
 * [patarapolw/AnkiTools ![GitHub stars](https://img.shields.io/github/stars/patarapolw/AnkiTools.svg)](https://github.com/patarapolw/AnkiTools) ⚠️ Archived - Python library for reading `*.apkg` and `*.anki2` files.
 
-* [flimzy/anki ![GitHub stars](https://img.shields.io/github/stars/flimzy/anki.svg)](https://github.com/flimzy/anki) ⭐ 53 | 🐛 5 | 🌐 Go | 📅 2020-07-04 - Go library to read Anki `*.apkg` files.
+* [flimzy/anki ![GitHub stars](https://img.shields.io/github/stars/flimzy/anki.svg)](https://github.com/flimzy/anki) ⭐ 54 | 🐛 5 | 🌐 Go | 📅 2020-07-04 - Go library to read Anki `*.apkg` files.
 
-* [Archenoth/clj-anki ![GitHub stars](https://img.shields.io/github/stars/Archenoth/clj-anki.svg)](https://github.com/Archenoth/clj-anki) ⭐ 33 | 🐛 0 | 🌐 Clojure | 📅 2023-05-09 - Clojure Anki-file interaction library to read and write `*.anki2` and `*.apkg` files.
+* [Archenoth/clj-anki ![GitHub stars](https://img.shields.io/github/stars/Archenoth/clj-anki.svg)](https://github.com/Archenoth/clj-anki) ⭐ 34 | 🐛 0 | 🌐 Clojure | 📅 2023-05-09 - Clojure Anki-file interaction library to read and write `*.anki2` and `*.apkg` files.
 
 * [eikowagenknecht/srs-converter ![GitHub stars](https://img.shields.io/github/stars/eikowagenknecht/srs-converter)](https://github.com/eikowagenknecht/srs-converter) ⭐ 14 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-24 - A TypeScript library for converting between different spaced repetition system (SRS) formats, including Anki (.apkg and .colpkg).
 
@@ -204,4 +204,4 @@ A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 30,041 | 🐛 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

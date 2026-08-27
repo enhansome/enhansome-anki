@@ -12,10 +12,10 @@
             "archived": false,
             "id": 7270538,
             "language": "Rust",
-            "last_commit": "2026-08-26T09:51:35Z",
+            "last_commit": "2026-08-26T18:48:48Z",
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 30041
+            "stars": 30071
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 7716883,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T23:45:22Z",
+            "last_commit": "2026-08-27T09:46:23Z",
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 11624
+            "stars": 11629
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 366137
+            "stars": 366322
           }
         },
         {
@@ -813,7 +813,7 @@
                 "last_commit": "2024-12-30T20:31:50Z",
                 "owner": "kerrickstaley",
                 "repo": "genanki",
-                "stars": 2678
+                "stars": 2679
               }
             },
             {
@@ -873,7 +873,7 @@
                 "last_commit": "2020-07-04T21:26:09Z",
                 "owner": "flimzy",
                 "repo": "anki",
-                "stars": 53
+                "stars": 54
               }
             },
             {
@@ -888,7 +888,7 @@
                 "last_commit": "2023-05-09T18:55:23Z",
                 "owner": "Archenoth",
                 "repo": "clj-anki",
-                "stars": 33
+                "stars": 34
               }
             },
             {
@@ -997,9 +997,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:10:58.114Z",
-    "original_repository": "tianshanghong/awesome-anki",
-    "original_repository_id": 126348760,
+    "last_updated": "2026-08-27T11:19:56.317Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 126348760,
+      "language": null,
+      "last_commit": "2026-01-02T01:46:09Z",
+      "owner": "tianshanghong",
+      "repo": "awesome-anki",
+      "stars": 2082
+    },
     "original_repository_sha": "c78139aba36c6e76db20c2002cbe58d43feb1146",
     "enhanced_repository": "enhansome/enhansome-anki",
     "enhanced_repository_description": null,
