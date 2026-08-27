@@ -12,10 +12,10 @@
             "archived": false,
             "id": 7270538,
             "language": "Rust",
-            "last_commit": "2026-08-26T18:48:48Z",
+            "last_commit": "2026-08-27T17:30:57Z",
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 30071
+            "stars": 30080
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 7716883,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T09:46:23Z",
+            "last_commit": "2026-08-27T22:08:57Z",
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 11629
+            "stars": 11631
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 366322
+            "stars": 366397
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-19T12:23:30Z",
             "owner": "CravingCrates",
             "repo": "AnkiCollab-Plugin",
-            "stars": 130
+            "stars": 131
           }
         },
         {
@@ -582,7 +582,7 @@
                 "last_commit": "2026-08-22T12:55:26Z",
                 "owner": "lervag",
                 "repo": "apy",
-                "stars": 349
+                "stars": 350
               }
             },
             {
@@ -997,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:19:56.317Z",
+    "last_updated": "2026-08-27T22:12:31.782Z",
     "original_repository_info": {
       "archived": false,
       "id": 126348760,
