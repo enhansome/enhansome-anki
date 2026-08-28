@@ -12,11 +12,12 @@
             "archived": false,
             "id": 7270538,
             "language": "Rust",
-            "last_commit": "2026-08-27T17:30:57Z",
+            "last_commit": "2026-08-28T21:51:10Z",
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 30080
-          }
+            "stars": 30100
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 7716883,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T22:08:57Z",
+            "last_commit": "2026-08-28T19:45:27Z",
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 11631
-          }
+            "stars": 11633
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         }
       ],
       "title": "Clients"
@@ -51,8 +53,9 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 366397
-          }
+            "stars": 366578
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "anki-geo",
             "repo": "ultimate-geography",
             "stars": 1162
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "taivop",
             "repo": "anki-decks",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "vojtechruz",
             "repo": "spring-core-cert-notes-4.2",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "b3nj5m1n",
             "repo": "anki-major-system",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         }
       ],
       "title": "Decks"
@@ -133,7 +140,8 @@
             "owner": "open-spaced-repetition",
             "repo": "fsrs4anki",
             "stars": 4053
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -147,8 +155,9 @@
             "last_commit": "2025-11-04T02:58:29Z",
             "owner": "FooSoft",
             "repo": "anki-connect",
-            "stars": 2079
-          }
+            "stars": 2078
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "glutanimate",
             "repo": "review-heatmap",
             "stars": 1313
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -177,8 +187,9 @@
             "last_commit": "2026-07-11T07:07:47Z",
             "owner": "Stvad",
             "repo": "CrowdAnki",
-            "stars": 639
-          }
+            "stars": 640
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "AwesomeTTS",
             "repo": "awesometts-anki-addon",
             "stars": 503
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "glutanimate",
             "repo": "image-occlusion-enhanced",
             "stars": 439
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "glutanimate",
             "repo": "cloze-overlapper",
             "stars": 244
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "eshapard",
             "repo": "AnkiHabitica",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "glutanimate",
             "repo": "anki-addons-misc",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "CravingCrates",
             "repo": "AnkiCollab-Plugin",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "krassowski",
             "repo": "Anki-Night-Mode",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "roxgib",
             "repo": "anki-contanki",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "glutanimate",
             "repo": "unified-remote-anki",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "glutanimate",
             "repo": "note-organizer",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "jefdongus",
             "repo": "insert-symbols-anki-addon",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "glutanimate",
             "repo": "colorful-tags",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "glutanimate",
             "repo": "html-cleaner",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "glutanimate",
             "repo": "advanced-previewer",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "glutanimate",
             "repo": "highlight-search-results",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "glutanimate",
             "repo": "sequence-inserter",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "glutanimate",
             "repo": "sticky-searches",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "sillsdev",
             "repo": "flashgrab",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "gregorias",
             "repo": "anki-image-scaler",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "sillsdev",
             "repo": "flashgrid",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "sillsdev",
             "repo": "flashfork",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         }
       ],
       "title": "Add-ons"
@@ -516,7 +548,8 @@
                 "owner": "ninja33",
                 "repo": "anki-dict-helper",
                 "stars": 404
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -531,7 +564,8 @@
                 "owner": "corollari",
                 "repo": "ankiTab",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -546,7 +580,8 @@
                 "owner": "x-cod3r",
                 "repo": "Ai-Anki-Generator",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             }
           ],
           "description": null,
@@ -568,7 +603,8 @@
                 "owner": "ankicommunity",
                 "repo": "ankicommunity-sync-server",
                 "stars": 956
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -579,11 +615,12 @@
                 "archived": false,
                 "id": 205250179,
                 "language": "Python",
-                "last_commit": "2026-08-22T12:55:26Z",
+                "last_commit": "2026-08-28T16:30:44Z",
                 "owner": "lervag",
                 "repo": "apy",
-                "stars": 350
-              }
+                "stars": 351
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -598,7 +635,8 @@
                 "owner": "jeprecated",
                 "repo": "brain-brew",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -613,7 +651,8 @@
                 "owner": "psamim",
                 "repo": "kindle2anki",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -628,7 +667,8 @@
                 "owner": "c-okelly",
                 "repo": "org_to_anki",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -643,7 +683,8 @@
                 "owner": "jamhed",
                 "repo": "anki",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -658,7 +699,8 @@
                 "owner": "ecator",
                 "repo": "anki-youdao2anki",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -673,7 +715,8 @@
                 "owner": "lourot",
                 "repo": "lsankidb",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -688,7 +731,8 @@
                 "owner": "matthieu-rolland",
                 "repo": "memanki-cli",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -703,7 +747,8 @@
                 "owner": "johnsutor",
                 "repo": "leetcode-study-tool",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -718,7 +763,8 @@
                 "owner": "Mindful",
                 "repo": "cardbuilder",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -733,7 +779,8 @@
                 "owner": "VaiTon",
                 "repo": "ankituls",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -748,7 +795,8 @@
                 "owner": "Rioverse",
                 "repo": "anki-ls",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             }
           ],
           "description": null,
@@ -770,7 +818,8 @@
                 "owner": "Nonameentered",
                 "repo": "Flashcard-Adder",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             }
           ],
           "description": null,
@@ -792,7 +841,8 @@
                 "owner": "damaru2",
                 "repo": "ankigenbot",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             }
           ],
           "description": null,
@@ -813,8 +863,9 @@
                 "last_commit": "2024-12-30T20:31:50Z",
                 "owner": "kerrickstaley",
                 "repo": "genanki",
-                "stars": 2679
-              }
+                "stars": 2680
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -829,7 +880,8 @@
                 "owner": "klieret",
                 "repo": "AnkiPandas",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -844,7 +896,8 @@
                 "owner": "yannickfunk",
                 "repo": "genanki-rs",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -859,7 +912,8 @@
                 "owner": "patarapolw",
                 "repo": "AnkiTools",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -874,7 +928,8 @@
                 "owner": "flimzy",
                 "repo": "anki",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -889,7 +944,8 @@
                 "owner": "Archenoth",
                 "repo": "clj-anki",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             },
             {
               "node_type": "item",
@@ -904,7 +960,8 @@
                 "owner": "eikowagenknecht",
                 "repo": "srs-converter",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T22:13:40.548Z"
             }
           ],
           "description": null,
@@ -930,7 +987,8 @@
             "owner": "badlydrawnrob",
             "repo": "anki",
             "stars": 923
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -945,7 +1003,8 @@
             "owner": "pranavdeshai",
             "repo": "anki-prettify",
             "stars": 533
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -960,7 +1019,8 @@
             "owner": "ikkz",
             "repo": "anki-eco",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -975,7 +1035,8 @@
             "owner": "b3nj5m1n",
             "repo": "moderncardthemes",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         },
         {
           "node_type": "item",
@@ -990,14 +1051,15 @@
             "owner": "asdfgeoff",
             "repo": "anki-templates",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T22:13:40.548Z"
         }
       ],
       "title": "Themes"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:12:31.782Z",
+    "last_updated": "2026-08-28T22:13:40.548Z",
     "original_repository_info": {
       "archived": false,
       "id": 126348760,
@@ -1005,7 +1067,7 @@
       "last_commit": "2026-01-02T01:46:09Z",
       "owner": "tianshanghong",
       "repo": "awesome-anki",
-      "stars": 2082
+      "stars": 2083
     },
     "original_repository_sha": "c78139aba36c6e76db20c2002cbe58d43feb1146",
     "enhanced_repository": "enhansome/enhansome-anki",
