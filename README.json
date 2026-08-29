@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anki is a smart spaced repetition flashcard program",
+            "homepage": "https://apps.ankiweb.net",
             "id": 7270538,
             "language": "Rust",
-            "last_commit": "2026-08-28T21:51:10Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:12:26Z",
+            "open_issues": 469,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 30100
+            "stars": 30100,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -26,12 +31,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
+            "homepage": null,
             "id": 7716883,
             "language": "Kotlin",
-            "last_commit": "2026-08-28T19:45:27Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T00:27:33Z",
+            "open_issues": 383,
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 11633
+            "stars": 11634,
+            "topics": [
+              "android",
+              "anki",
+              "ankidroid",
+              "education",
+              "flashcards",
+              "kotlin",
+              "learning",
+              "srs"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         }
@@ -48,12 +67,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+            "homepage": null,
             "id": 83222441,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-20T01:52:19Z",
+            "open_issues": 613,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 366578
+            "stars": 366601,
+            "topics": [
+              "design",
+              "design-patterns",
+              "design-system",
+              "development",
+              "interview",
+              "interview-practice",
+              "interview-questions",
+              "programming",
+              "python",
+              "system",
+              "web",
+              "web-application",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -64,12 +102,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Geography flashcard deck for Anki",
+            "homepage": "https://ankiweb.net/shared/info/2109889812",
             "id": 77503496,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T07:28:37Z",
+            "open_issues": 54,
             "owner": "anki-geo",
             "repo": "ultimate-geography",
-            "stars": 1162
+            "stars": 1162,
+            "topics": [
+              "anki",
+              "brain-brew",
+              "deck",
+              "flashcards",
+              "geography"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -80,12 +129,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anki decks I've created",
+            "homepage": null,
             "id": 51706817,
             "language": null,
+            "license": null,
             "last_commit": "2019-06-07T12:47:03Z",
+            "open_issues": 0,
             "owner": "taivop",
             "repo": "anki-decks",
-            "stars": 255
+            "stars": 255,
+            "topics": [
+              "anki",
+              "flashcards"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -96,12 +153,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Study notes for Pivotal Certified Spring Professional Certification - v 4.2 ",
+            "homepage": null,
             "id": 67940728,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-12-02T13:26:34Z",
+            "open_issues": 1,
             "owner": "vojtechruz",
             "repo": "spring-core-cert-notes-4.2",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "certification",
+              "java",
+              "spring"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -112,12 +178,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An anki deck to learn the major system",
+            "homepage": null,
             "id": 360528919,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-04-22T14:00:28Z",
+            "open_issues": 0,
             "owner": "b3nj5m1n",
             "repo": "anki-major-system",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         }
@@ -134,12 +205,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm",
+            "homepage": "https://github.com/open-spaced-repetition/fsrs4anki/wiki",
             "id": 534168787,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-14T03:34:18Z",
+            "open_issues": 8,
             "owner": "open-spaced-repetition",
             "repo": "fsrs4anki",
-            "stars": 4053
+            "stars": 4053,
+            "topics": [
+              "anki",
+              "anki-addon",
+              "deep-learning",
+              "fsrs",
+              "intelligent-tutoring-system",
+              "machine-learning",
+              "memory",
+              "optimal-control",
+              "reinforcement-learning",
+              "spaced-repetition",
+              "spaced-repetition-algorithm",
+              "srs"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -150,12 +239,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Anki plugin to expose a remote API for creating flash cards.",
+            "homepage": "https://foosoft.net/projects/anki-connect/",
             "id": 59382176,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-04T02:58:29Z",
+            "open_issues": 124,
             "owner": "FooSoft",
             "repo": "anki-connect",
-            "stars": 2078
+            "stars": 2078,
+            "topics": [
+              "anki"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -166,12 +262,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anki add-on to help you keep track of your review activity",
+            "homepage": "https://ankiweb.net/shared/info/1771074083",
             "id": 78292823,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-08-04T14:16:14Z",
+            "open_issues": 100,
             "owner": "glutanimate",
             "repo": "review-heatmap",
-            "stars": 1313
+            "stars": 1314,
+            "topics": [
+              "anki",
+              "anki-addon"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -182,12 +286,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for Anki SRS designed to facilitate cooperation on creation of notes and decks.",
+            "homepage": null,
             "id": 61444017,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-11T07:07:47Z",
+            "open_issues": 75,
             "owner": "Stvad",
             "repo": "CrowdAnki",
-            "stars": 640
+            "stars": 640,
+            "topics": [
+              "addon",
+              "anki-addon",
+              "anki-flashcards",
+              "collaboration",
+              "crowdanki",
+              "git",
+              "json"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -198,12 +315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AwesomeTTS text-to-speech add-on for Anki",
+            "homepage": null,
             "id": 81391291,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-05-24T05:49:36Z",
+            "open_issues": 75,
             "owner": "AwesomeTTS",
             "repo": "awesometts-anki-addon",
-            "stars": 503
+            "stars": 503,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -214,12 +336,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anki add-on that transforms images into cloze tests",
+            "homepage": "https://ankiweb.net/shared/info/1374772155",
             "id": 54893786,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-22T16:36:04Z",
+            "open_issues": 200,
             "owner": "glutanimate",
             "repo": "image-occlusion-enhanced",
-            "stars": 439
+            "stars": 439,
+            "topics": [
+              "anki",
+              "anki-addon"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -230,12 +360,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anki add-on for memorizing lists and enumerations",
+            "homepage": "https://ankiweb.net/shared/info/969733775",
             "id": 82444078,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-12-30T06:49:00Z",
+            "open_issues": 52,
             "owner": "glutanimate",
             "repo": "cloze-overlapper",
-            "stars": 244
+            "stars": 244,
+            "topics": [
+              "anki",
+              "anki-addon"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -246,12 +384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anki 2.0/2.1 add-on for use with HabitRPG. Automatically scores habits when you reach the end of your Anki timebox and when you review all cards in a deck. ",
+            "homepage": null,
             "id": 15212210,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-14T07:09:28Z",
+            "open_issues": 22,
             "owner": "eshapard",
             "repo": "AnkiHabitica",
-            "stars": 202
+            "stars": 202,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -262,12 +405,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Various add-ons I've written for Anki",
+            "homepage": "https://ankiweb.net/shared/addons/",
             "id": 52204024,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2024-04-07T17:08:16Z",
+            "open_issues": 78,
             "owner": "glutanimate",
             "repo": "anki-addons-misc",
-            "stars": 183
+            "stars": 183,
+            "topics": [
+              "anki",
+              "anki-addon"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -278,12 +429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code for the Anki Plugin",
+            "homepage": null,
             "id": 589735484,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-19T12:23:30Z",
+            "open_issues": 7,
             "owner": "CravingCrates",
             "repo": "AnkiCollab-Plugin",
-            "stars": 131
+            "stars": 131,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -294,12 +450,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Enabling studying at night with Anki - without eye strain",
+            "homepage": "https://ankiweb.net/shared/info/1496166067",
             "id": 33514597,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-05-11T19:52:01Z",
+            "open_issues": 37,
             "owner": "krassowski",
             "repo": "Anki-Night-Mode",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "addon",
+              "anki",
+              "anki-addon",
+              "anki-night-mode",
+              "anki-theme",
+              "anki21",
+              "night-mode",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -310,12 +480,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contanki is an add-on for Anki which allows users to control Anki using a gamepad or other controller device. To install, visit AnkiWeb or use the install code 1898790263.",
+            "homepage": null,
             "id": 448125330,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2024-06-26T12:35:23Z",
+            "open_issues": 63,
             "owner": "roxgib",
             "repo": "anki-contanki",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "anki",
+              "anki-addon"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -326,12 +504,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified Remote for Anki",
+            "homepage": null,
             "id": 41060437,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2018-09-04T18:27:40Z",
+            "open_issues": 2,
             "owner": "glutanimate",
             "repo": "unified-remote-anki",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "android",
+              "anki",
+              "ios",
+              "remote-control"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -342,12 +530,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Note Organizer Add-on for Anki",
+            "homepage": null,
             "id": 88202131,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-03-24T21:28:51Z",
+            "open_issues": 1,
             "owner": "glutanimate",
             "repo": "note-organizer",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "anki",
+              "anki-addon"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -358,12 +554,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anki add-on to insert Unicode symbols into cards.",
+            "homepage": "https://ankiweb.net/shared/info/2040501954",
             "id": 113365888,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-25T16:02:56Z",
+            "open_issues": 27,
             "owner": "jefdongus",
             "repo": "insert-symbols-anki-addon",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -374,12 +575,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Colorful Tags add-on for Anki (formerly known as Hierarchical Tags 2)",
+            "homepage": "https://ankiweb.net/shared/info/594329229",
             "id": 233240279,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2023-02-16T05:38:02Z",
+            "open_issues": 12,
             "owner": "glutanimate",
             "repo": "colorful-tags",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "add-on",
+              "anki"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -390,12 +599,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML Cleaner Add-on for Anki",
+            "homepage": null,
             "id": 92198227,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2020-06-25T16:34:03Z",
+            "open_issues": 3,
             "owner": "glutanimate",
             "repo": "html-cleaner",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "anki",
+              "anki-addon"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -406,12 +623,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced Previewer Add-on for Anki",
+            "homepage": null,
             "id": 84891233,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-02-24T14:22:53Z",
+            "open_issues": 8,
             "owner": "glutanimate",
             "repo": "advanced-previewer",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "anki",
+              "anki-addon"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -422,12 +647,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Highlight Search Results in the Browser add-on for Anki",
+            "homepage": "https://ankiweb.net/shared/info/225180905",
             "id": 261306793,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-07T07:40:11Z",
+            "open_issues": 13,
             "owner": "glutanimate",
             "repo": "highlight-search-results",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "anki",
+              "anki-addon",
+              "education",
+              "flashcards",
+              "learning",
+              "srs"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -438,12 +675,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sequence Inserter Add-on for Anki",
+            "homepage": null,
             "id": 85106600,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-02-09T14:32:44Z",
+            "open_issues": 4,
             "owner": "glutanimate",
             "repo": "sequence-inserter",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "anki",
+              "anki-addon"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -454,12 +699,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sticky Searches add-on for Anki",
+            "homepage": null,
             "id": 98430528,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-08-11T19:17:55Z",
+            "open_issues": 2,
             "owner": "glutanimate",
             "repo": "sticky-searches",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "anki",
+              "anki-addon"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -470,12 +723,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Anki addon for pulling flashcard data (one-way sync) from XML. Optimized for LIFT XML (from WeSay or FLEx). [This is now the official repo. -pconstrictor]",
+            "homepage": null,
             "id": 28093234,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-02T14:48:48Z",
+            "open_issues": 17,
             "owner": "sillsdev",
             "repo": "flashgrab",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -486,12 +744,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An Anki plugin that scales images during editing",
+            "homepage": null,
             "id": 260854267,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-11T15:01:05Z",
+            "open_issues": 0,
             "owner": "gregorias",
             "repo": "anki-image-scaler",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "anki",
+              "anki-addon",
+              "anki-plugin",
+              "scales-images"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -502,12 +770,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 28094543,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-09-13T17:59:44Z",
+            "open_issues": 11,
             "owner": "sillsdev",
             "repo": "flashgrid",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -518,12 +791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Anki addon for copying decks of flashcards, with or without also copying their note types.",
+            "homepage": null,
             "id": 41222531,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-02-05T21:46:00Z",
+            "open_issues": 0,
             "owner": "sillsdev",
             "repo": "flashfork",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         }
@@ -542,12 +820,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anki划词制卡助手 --  \"划词翻译，一键制卡\"",
+                "homepage": "https://ninja33.github.io/20160817/anki-dict-helper-chrome-extension/",
                 "id": 65912192,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2024-05-06T05:31:07Z",
+                "open_issues": 14,
                 "owner": "ninja33",
                 "repo": "anki-dict-helper",
-                "stars": 404
+                "stars": 404,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -558,12 +841,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Browser extension that replaces the new tab page with Anki flashcards",
+                "homepage": "https://ankitab.com",
                 "id": 145312393,
                 "language": "JavaScript",
+                "license": "Unlicense",
                 "last_commit": "2021-11-12T01:24:05Z",
+                "open_issues": 17,
                 "owner": "corollari",
                 "repo": "ankiTab",
-                "stars": 201
+                "stars": 201,
+                "topics": [
+                  "anki",
+                  "anki-flashcards",
+                  "ankiweb",
+                  "browser-extension",
+                  "webextension"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -574,12 +868,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is complete #free app based on #python to use #Ai to generate #Anki Flashcards #medicine #freesource ",
+                "homepage": null,
                 "id": 914085208,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-13T02:39:06Z",
+                "open_issues": 0,
                 "owner": "x-cod3r",
                 "repo": "Ai-Anki-Generator",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "ai",
+                  "anki",
+                  "anki-addon",
+                  "automation",
+                  "educational",
+                  "flashcards",
+                  "generation",
+                  "generative-ai",
+                  "medical",
+                  "open-source",
+                  "python",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             }
@@ -597,12 +909,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A personal Anki sync server (so you can sync against your own server rather than AnkiWeb)",
+                "homepage": null,
                 "id": 183618761,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-09-25T12:28:20Z",
+                "open_issues": 48,
                 "owner": "ankicommunity",
                 "repo": "ankicommunity-sync-server",
-                "stars": 956
+                "stars": 956,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -613,12 +930,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI script for interacting with local Anki collection",
+                "homepage": null,
                 "id": 205250179,
                 "language": "Python",
-                "last_commit": "2026-08-28T16:30:44Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:42:59Z",
+                "open_issues": 4,
                 "owner": "lervag",
                 "repo": "apy",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "anki",
+                  "cli",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -629,12 +955,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated Anki flashcard creation and extraction to/from Csv ",
+                "homepage": null,
                 "id": 254617397,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2026-08-07T11:15:06Z",
+                "open_issues": 13,
                 "owner": "jeprecated",
                 "repo": "brain-brew",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "anki",
+                  "anki-flashcards",
+                  "brain-brew",
+                  "collaboration",
+                  "crowdanki",
+                  "csv",
+                  "csv-converter",
+                  "data-manipulation",
+                  "learning",
+                  "open-source",
+                  "python",
+                  "python37",
+                  "yamale"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -645,12 +990,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add words from Kindle to Anki",
+                "homepage": null,
                 "id": 65180844,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-07T15:05:57Z",
+                "open_issues": 2,
                 "owner": "psamim",
                 "repo": "kindle2anki",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "anki",
+                  "kindle"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -661,12 +1014,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python3 module to convert Txt, Org or LibreOffice files into Anki decks",
+                "homepage": null,
                 "id": 92509799,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-08T11:19:13Z",
+                "open_issues": 21,
                 "owner": "c-okelly",
                 "repo": "org_to_anki",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "anki",
+                  "anki-deck",
+                  "ankiconnect",
+                  "bullet-points",
+                  "libreoffice",
+                  "org",
+                  "org-mode",
+                  "python3",
+                  "txt"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -677,12 +1045,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anki flashcard tools",
+                "homepage": null,
                 "id": 25396690,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2018-01-04T20:45:44Z",
+                "open_issues": 2,
                 "owner": "jamhed",
                 "repo": "anki",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -693,12 +1066,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "转换有道单词本到Anki格式",
+                "homepage": null,
                 "id": 74213195,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-11-26T03:15:25Z",
+                "open_issues": 0,
                 "owner": "ecator",
                 "repo": "anki-youdao2anki",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "anki"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -709,12 +1089,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "☆ `ls` for your local Anki database.",
+                "homepage": null,
                 "id": 130388141,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2022-07-15T18:41:03Z",
+                "open_issues": 3,
                 "owner": "lourot",
                 "repo": "lsankidb",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "anki",
+                  "cli",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -725,12 +1114,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI implementation of memanki",
+                "homepage": null,
                 "id": 89864954,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-02-20T11:06:28Z",
+                "open_issues": 2,
                 "owner": "matthieu-rolland",
                 "repo": "memanki-cli",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "anki",
+                  "anki-deck",
+                  "memrise",
+                  "srs"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -741,12 +1140,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This package lets you get grokking as quickly as possible with Leetcode.",
+                "homepage": null,
                 "id": 677767766,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-08T16:23:36Z",
+                "open_issues": 0,
                 "owner": "johnsutor",
                 "repo": "leetcode-study-tool",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "anki",
+                  "anki-flashcards",
+                  "excel-export",
+                  "grokking",
+                  "leetcode",
+                  "leetcode-python",
+                  "neetcode",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -757,12 +1170,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Making flashcard construction effortless and vocabulary acquisition (slightly) less painful 🎴",
+                "homepage": "https://pypi.org/project/cardbuilder/",
                 "id": 336510744,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-22T20:59:31Z",
+                "open_issues": 11,
                 "owner": "Mindful",
                 "repo": "cardbuilder",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "anki",
+                  "anki-flashcards",
+                  "flashcard-generator",
+                  "flashcards",
+                  "language-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -773,12 +1197,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to import and export Anki decks in common formats",
+                "homepage": null,
                 "id": 651709013,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-27T16:47:19Z",
+                "open_issues": 0,
                 "owner": "VaiTon",
                 "repo": "ankituls",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "anki",
+                  "toml"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -789,12 +1221,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inspect Anki export files (.apkg) with this CLI application.",
+                "homepage": null,
                 "id": 1045516071,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-08-27T10:42:44Z",
+                "open_issues": 0,
                 "owner": "Rioverse",
                 "repo": "anki-ls",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "anki",
+                  "cli",
+                  "json",
+                  "language-learning",
+                  "spaced-repetition",
+                  "srs"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             }
@@ -812,12 +1256,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flashcard Adder provides an alternative interface for adding flashcards into supported flashcard software. The app currently supports use with AnkiMobile.",
+                "homepage": "https://flashcard.technaplex.com",
                 "id": 306538866,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-06-29T13:28:43Z",
+                "open_issues": 0,
                 "owner": "Nonameentered",
                 "repo": "Flashcard-Adder",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "anki",
+                  "anki-addon",
+                  "anki-flashcards",
+                  "flashcards"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             }
@@ -835,12 +1289,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Telegram bot to automatically generate and upload anki cards to ankisrs.net",
+                "homepage": null,
                 "id": 74177199,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-24T16:46:50Z",
+                "open_issues": 4,
                 "owner": "damaru2",
                 "repo": "ankigenbot",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "anki",
+                  "telegram-bot",
+                  "upload-anki-cards"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             }
@@ -858,12 +1321,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python 3 library for generating Anki decks",
+                "homepage": null,
                 "id": 81927667,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-30T20:31:50Z",
+                "open_issues": 36,
                 "owner": "kerrickstaley",
                 "repo": "genanki",
-                "stars": 2680
+                "stars": 2680,
+                "topics": [
+                  "anki",
+                  "anki-flashcards"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -874,12 +1345,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Analyze and manipulate your Anki flashcards using pandas dataframes!",
+                "homepage": "https://ankipandas.rtfd.io/",
                 "id": 181918652,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-03T22:37:15Z",
+                "open_issues": 25,
                 "owner": "klieret",
                 "repo": "AnkiPandas",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "anki",
+                  "anki-addon",
+                  "anki21",
+                  "pandas",
+                  "pandas-dataframes",
+                  "spaced-repetition"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -890,12 +1373,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust crate to create Anki decks. Based on the python library genanki",
+                "homepage": null,
                 "id": 363447269,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-07-30T06:44:16Z",
+                "open_issues": 8,
                 "owner": "yannickfunk",
                 "repo": "genanki-rs",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "anki",
+                  "anki-flashcards",
+                  "flashcards",
+                  "genanki",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -906,12 +1400,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "an Anki *.apkg and collection.anki2 reader and editor",
+                "homepage": "https://ankitools.readthedocs.io",
                 "id": 120288588,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-10-31T07:57:51Z",
+                "open_issues": 0,
                 "owner": "patarapolw",
                 "repo": "AnkiTools",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "anki",
+                  "apkg"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -922,12 +1424,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go library to read Anki *.apkg files",
+                "homepage": null,
                 "id": 59902362,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2020-07-04T21:26:09Z",
+                "open_issues": 5,
                 "owner": "flimzy",
                 "repo": "anki",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "anki",
+                  "go"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -938,12 +1448,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Anki library to read and write .anki2 and .apkg files in Clojure",
+                "homepage": null,
                 "id": 76706797,
                 "language": "Clojure",
+                "license": "EPL-1.0",
                 "last_commit": "2023-05-09T18:55:23Z",
+                "open_issues": 0,
                 "owner": "Archenoth",
                 "repo": "clj-anki",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "anki",
+                  "anki-packages"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             },
@@ -954,12 +1472,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for converting between different spaced repetition system formats",
+                "homepage": "https://github.com/eikowagenknecht/srs-converter",
                 "id": 1036753071,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T21:56:00Z",
+                "open_issues": 6,
                 "owner": "eikowagenknecht",
                 "repo": "srs-converter",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "anki",
+                  "apkg",
+                  "spaced-repetition",
+                  "srs"
+                ]
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
             }
@@ -981,12 +1509,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn to code with Anki — flashcards and themes for all learning levels. Master your programming language of choice!",
+            "homepage": null,
             "id": 37747361,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-04-22T13:29:59Z",
+            "open_issues": 46,
             "owner": "badlydrawnrob",
             "repo": "anki",
-            "stars": 923
+            "stars": 923,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -997,12 +1530,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of customizable Anki flashcard templates with modern and clean themes.",
+            "homepage": null,
             "id": 445784188,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2024-08-10T21:46:15Z",
+            "open_issues": 10,
             "owner": "pranavdeshai",
             "repo": "anki-prettify",
-            "stars": 533
+            "stars": 533,
+            "topics": [
+              "anki",
+              "dark-theme",
+              "light-theme",
+              "templates",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -1013,12 +1557,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enhance your Anki experience",
+            "homepage": "https://anki.ikkz.fun",
             "id": 853226286,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-20T07:11:46Z",
+            "open_issues": 6,
             "owner": "ikkz",
             "repo": "anki-eco",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "addon",
+              "anki",
+              "efficiency",
+              "learning",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -1029,12 +1584,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern Anki card templates",
+            "homepage": null,
             "id": 246136925,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-02-11T20:53:52Z",
+            "open_issues": 1,
             "owner": "b3nj5m1n",
             "repo": "moderncardthemes",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "anki",
+              "ankidroid",
+              "css",
+              "templates"
+            ]
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         },
@@ -1045,12 +1610,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 268036724,
             "language": "CSS",
+            "license": null,
             "last_commit": "2020-10-30T08:37:58Z",
+            "open_issues": 2,
             "owner": "asdfgeoff",
             "repo": "anki-templates",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
         }
@@ -1059,15 +1629,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:13:40.548Z",
+    "last_updated": "2026-08-29T04:24:21.947Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Anki add-ons, decks and resources",
+      "homepage": null,
       "id": 126348760,
       "language": null,
+      "license": null,
       "last_commit": "2026-01-02T01:46:09Z",
+      "open_issues": 10,
       "owner": "tianshanghong",
       "repo": "awesome-anki",
-      "stars": 2083
+      "stars": 2083,
+      "topics": [
+        "anki",
+        "anki-addon",
+        "anki-cards",
+        "anki-deck",
+        "anki-flashcards",
+        "anki-template",
+        "anki-theme",
+        "awesome",
+        "awesome-list",
+        "deck",
+        "flashcards",
+        "list"
+      ]
     },
     "original_repository_sha": "c78139aba36c6e76db20c2002cbe58d43feb1146",
     "enhanced_repository": "enhansome/enhansome-anki",
