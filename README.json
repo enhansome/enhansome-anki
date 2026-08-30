@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-08-29T00:12:26Z",
-            "open_issues": 472,
+            "open_issues": 473,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 30114,
+            "stars": 30139,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
@@ -36,11 +36,11 @@
             "id": 7716883,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T16:03:12Z",
-            "open_issues": 377,
+            "last_commit": "2026-08-30T16:33:40Z",
+            "open_issues": 367,
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 11641,
+            "stars": 11647,
             "topics": [
               "android",
               "anki",
@@ -76,7 +76,7 @@
             "open_issues": 613,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 366704,
+            "stars": 366828,
             "topics": [
               "design",
               "design-patterns",
@@ -111,7 +111,7 @@
             "open_issues": 55,
             "owner": "anki-geo",
             "repo": "ultimate-geography",
-            "stars": 1162,
+            "stars": 1163,
             "topics": [
               "anki",
               "brain-brew",
@@ -271,7 +271,7 @@
             "open_issues": 100,
             "owner": "glutanimate",
             "repo": "review-heatmap",
-            "stars": 1314,
+            "stars": 1315,
             "topics": [
               "anki",
               "anki-addon"
@@ -295,7 +295,7 @@
             "open_issues": 75,
             "owner": "Stvad",
             "repo": "CrowdAnki",
-            "stars": 640,
+            "stars": 641,
             "topics": [
               "addon",
               "anki-addon",
@@ -1563,10 +1563,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-08-20T07:11:46Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "ikkz",
             "repo": "anki-eco",
-            "stars": 117,
+            "stars": 118,
             "topics": [
               "addon",
               "anki",
@@ -1629,7 +1629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T16:39:47.713Z",
+    "last_updated": "2026-08-30T16:36:04.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Anki add-ons, decks and resources",
