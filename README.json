@@ -15,11 +15,11 @@
             "id": 7270538,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T16:30:43Z",
-            "open_issues": 481,
+            "last_commit": "2026-09-02T14:10:51Z",
+            "open_issues": 477,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 30191,
+            "stars": 30228,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
@@ -36,11 +36,11 @@
             "id": 7716883,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T11:45:44Z",
-            "open_issues": 364,
+            "last_commit": "2026-09-02T11:03:15Z",
+            "open_issues": 367,
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 11682,
+            "stars": 11705,
             "topics": [
               "android",
               "anki",
@@ -73,10 +73,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-03-20T01:52:19Z",
-            "open_issues": 612,
+            "open_issues": 613,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 367284,
+            "stars": 367727,
             "topics": [
               "design",
               "design-patterns",
@@ -345,7 +345,7 @@
             "open_issues": 200,
             "owner": "glutanimate",
             "repo": "image-occlusion-enhanced",
-            "stars": 439,
+            "stars": 440,
             "topics": [
               "anki",
               "anki-addon"
@@ -434,7 +434,7 @@
             "id": 589735484,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-19T12:23:30Z",
+            "last_commit": "2026-09-01T21:17:48Z",
             "open_issues": 7,
             "owner": "CravingCrates",
             "repo": "AnkiCollab-Plugin",
@@ -1514,7 +1514,7 @@
             "id": 37747361,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-04-22T13:29:59Z",
+            "last_commit": "2026-09-01T18:58:50Z",
             "open_issues": 46,
             "owner": "badlydrawnrob",
             "repo": "anki",
@@ -1629,7 +1629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T16:32:06.676Z",
+    "last_updated": "2026-09-02T16:29:21.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Anki add-ons, decks and resources",
