@@ -1,8 +1,8 @@
-[<img src="https://rawgit.com/tianshanghong/awesome-anki/master/thirdparty/logo.png" align="left" width="64" height="64">](https://github.com/tianshanghong/awesome-anki) ⭐ 2,087 | 🐛 12 | 📅 2026-01-02
+[<img src="https://rawgit.com/tianshanghong/awesome-anki/master/thirdparty/logo.png" align="left" width="64" height="64">](https://github.com/tianshanghong/awesome-anki) ⭐ 2,088 | 🐛 12 | 📅 2026-01-02
 
 # Awesome Anki with stars
 
-A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 30,336 | 🐛 485 | 🌐 Rust | 📅 2026-09-05 add-ons, decks and resources. Feel free to suggest new projects in [Issues](https://github.com/tianshanghong/awesome-anki/issues) ⭐ 2,087 | 🐛 12 | 📅 2026-01-02 or PR directly.
+A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 30,358 | 🐛 488 | 🌐 Rust | 📅 2026-09-05 add-ons, decks and resources. Feel free to suggest new projects in [Issues](https://github.com/tianshanghong/awesome-anki/issues) ⭐ 2,088 | 🐛 12 | 📅 2026-01-02 or PR directly.
 
 ## Table of Contents
 
@@ -28,15 +28,15 @@ A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 30,336 | 🐛 
 
 | Name       | Link                                                                                                                                                                          | Description                              |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| anki       | [![GitHub stars](https://img.shields.io/github/stars/ankitects/anki.svg)](https://github.com/ankitects/anki) ⭐ 30,336 \| 🐛 485 \| 🌐 Rust \| 📅 2026-09-05                   | Anki for desktop computers               |
-| ankidroid  | [![GitHub stars](https://img.shields.io/github/stars/ankidroid/Anki-Android.svg)](https://github.com/ankidroid/Anki-Android) ⭐ 11,725 \| 🐛 340 \| 🌐 Kotlin \| 📅 2026-09-05 | AnkiDroid: Anki on Android               |
+| anki       | [![GitHub stars](https://img.shields.io/github/stars/ankitects/anki.svg)](https://github.com/ankitects/anki) ⭐ 30,358 \| 🐛 488 \| 🌐 Rust \| 📅 2026-09-05                   | Anki for desktop computers               |
+| ankidroid  | [![GitHub stars](https://img.shields.io/github/stars/ankidroid/Anki-Android.svg)](https://github.com/ankidroid/Anki-Android) ⭐ 11,735 \| 🐛 358 \| 🌐 Kotlin \| 📅 2026-09-06 | AnkiDroid: Anki on Android               |
 | AnkiMobile | [AnkiMobile Flashcards](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8)                                                                               | Anki for iOS devices (*Not Open Source*) |
 
 ## Decks
 
-* [donnemartin/system-design-primer ![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg)](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards) ⭐ 368,080 | 🐛 613 | 🌐 Python | 📅 2026-03-20 - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+* [donnemartin/system-design-primer ![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg)](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards) ⭐ 368,272 | 🐛 613 | 🌐 Python | 📅 2026-03-20 - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
-* [axelboc/anki-ultimate-geography ![GitHub stars](https://img.shields.io/github/stars/axelboc/anki-ultimate-geography.svg)](https://github.com/axelboc/anki-ultimate-geography) ⭐ 1,164 | 🐛 57 | 🌐 Python | 📅 2026-08-26 - Geography flashcard deck having different sovereign states, overseas territories and dependent areas, oceans, seas, and continents.
+* [axelboc/anki-ultimate-geography ![GitHub stars](https://img.shields.io/github/stars/axelboc/anki-ultimate-geography.svg)](https://github.com/axelboc/anki-ultimate-geography) ⭐ 1,166 | 🐛 57 | 🌐 Python | 📅 2026-08-26 - Geography flashcard deck having different sovereign states, overseas territories and dependent areas, oceans, seas, and continents.
 
 * [taivop/anki-decks ![GitHub stars](https://img.shields.io/github/stars/taivop/anki-decks.svg)](https://github.com/taivop/anki-decks) ⭐ 256 | 🐛 0 | 📅 2019-06-07 - [Taivo Pungas](https://github.com/taivop)'s personal decks on his studies on AI and related topics.
 
@@ -172,9 +172,9 @@ A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 30,336 | 🐛 
 
 ## Themes
 
-* [badlydrawnrob/anki ![GitHub stars](https://img.shields.io/github/stars/badlydrawnrob/anki.svg)](https://github.com/badlydrawnrob/anki) ⭐ 926 | 🐛 46 | 🌐 HTML | 📅 2026-09-03 - Anki theme for programming snippets.
+* [badlydrawnrob/anki ![GitHub stars](https://img.shields.io/github/stars/badlydrawnrob/anki.svg)](https://github.com/badlydrawnrob/anki) ⭐ 927 | 🐛 46 | 🌐 HTML | 📅 2026-09-03 - Anki theme for programming snippets.
 
-* [pranavdeshai/anki-prettify ![GitHub stars](https://img.shields.io/github/stars/pranavdeshai/anki-prettify.svg)](https://github.com/pranavdeshai/anki-prettify) ⭐ 533 | 🐛 10 | 🌐 SCSS | 📅 2024-08-10 - Collection of customizable Anki flashcard templates with modern and clean themes.
+* [pranavdeshai/anki-prettify ![GitHub stars](https://img.shields.io/github/stars/pranavdeshai/anki-prettify.svg)](https://github.com/pranavdeshai/anki-prettify) ⭐ 534 | 🐛 10 | 🌐 SCSS | 📅 2024-08-10 - Collection of customizable Anki flashcard templates with modern and clean themes.
 
 * [ikkz/anki-template ![GitHub stars](https://img.shields.io/github/stars/ikkz/anki-template.svg)](https://github.com/ikkz/anki-template) ⭐ 119 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-20 - Collection of customizable Anki templates designed for enhanced learning, featuring GPT integration, larger question text, dark/light modes, countdown motivation, and support for multiple-choice, true/false, and basic Q\&A formats.
 
@@ -204,4 +204,4 @@ A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 30,336 | 🐛 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
