@@ -15,11 +15,11 @@
             "id": 7270538,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T16:26:09Z",
-            "open_issues": 493,
+            "last_commit": "2026-09-10T15:43:01Z",
+            "open_issues": 489,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 30441,
+            "stars": 30452,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
@@ -36,11 +36,11 @@
             "id": 7716883,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T13:48:45Z",
-            "open_issues": 367,
+            "last_commit": "2026-09-10T10:25:47Z",
+            "open_issues": 369,
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 11753,
+            "stars": 11763,
             "topics": [
               "android",
               "anki",
@@ -76,7 +76,7 @@
             "open_issues": 611,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 368974,
+            "stars": 369192,
             "topics": [
               "design",
               "design-patterns",
@@ -918,7 +918,7 @@
                 "open_issues": 48,
                 "owner": "ankicommunity",
                 "repo": "ankicommunity-sync-server",
-                "stars": 955,
+                "stars": 956,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
@@ -1330,7 +1330,7 @@
                 "open_issues": 36,
                 "owner": "kerrickstaley",
                 "repo": "genanki",
-                "stars": 2690,
+                "stars": 2693,
                 "topics": [
                   "anki",
                   "anki-flashcards"
@@ -1477,8 +1477,8 @@
                 "id": 1036753071,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T21:56:15Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-10T07:14:17Z",
+                "open_issues": 4,
                 "owner": "eikowagenknecht",
                 "repo": "srs-converter",
                 "stars": 14,
@@ -1629,7 +1629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T16:32:41.185Z",
+    "last_updated": "2026-09-10T16:18:50.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Anki add-ons, decks and resources",
