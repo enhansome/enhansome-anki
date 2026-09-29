@@ -15,11 +15,11 @@
             "id": 7270538,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T11:15:54Z",
-            "open_issues": 566,
+            "last_commit": "2026-09-29T12:52:30Z",
+            "open_issues": 567,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 31641,
+            "stars": 31658,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
@@ -36,11 +36,11 @@
             "id": 7716883,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T17:01:37Z",
-            "open_issues": 385,
+            "last_commit": "2026-09-29T17:13:02Z",
+            "open_issues": 401,
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 11874,
+            "stars": 11882,
             "topics": [
               "android",
               "anki",
@@ -76,7 +76,7 @@
             "open_issues": 622,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 372357,
+            "stars": 372510,
             "topics": [
               "design",
               "design-patterns",
@@ -214,7 +214,7 @@
             "open_issues": 8,
             "owner": "open-spaced-repetition",
             "repo": "fsrs4anki",
-            "stars": 4081,
+            "stars": 4083,
             "topics": [
               "anki",
               "anki-addon",
@@ -271,7 +271,7 @@
             "open_issues": 100,
             "owner": "glutanimate",
             "repo": "review-heatmap",
-            "stars": 1312,
+            "stars": 1313,
             "topics": [
               "anki",
               "anki-addon"
@@ -324,7 +324,7 @@
             "open_issues": 75,
             "owner": "AwesomeTTS",
             "repo": "awesometts-anki-addon",
-            "stars": 503,
+            "stars": 504,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
@@ -438,7 +438,7 @@
             "open_issues": 6,
             "owner": "CravingCrates",
             "repo": "AnkiCollab-Plugin",
-            "stars": 134,
+            "stars": 135,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
@@ -918,7 +918,7 @@
                 "open_issues": 48,
                 "owner": "ankicommunity",
                 "repo": "ankicommunity-sync-server",
-                "stars": 954,
+                "stars": 955,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:13:40.548Z"
@@ -1330,7 +1330,7 @@
                 "open_issues": 36,
                 "owner": "kerrickstaley",
                 "repo": "genanki",
-                "stars": 2717,
+                "stars": 2718,
                 "topics": [
                   "anki",
                   "anki-flashcards"
@@ -1477,7 +1477,7 @@
                 "id": 1036753071,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-21T21:56:15Z",
+                "last_commit": "2026-09-28T21:56:28Z",
                 "open_issues": 6,
                 "owner": "eikowagenknecht",
                 "repo": "srs-converter",
@@ -1518,7 +1518,7 @@
             "open_issues": 46,
             "owner": "badlydrawnrob",
             "repo": "anki",
-            "stars": 933,
+            "stars": 934,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
@@ -1539,7 +1539,7 @@
             "open_issues": 10,
             "owner": "pranavdeshai",
             "repo": "anki-prettify",
-            "stars": 539,
+            "stars": 541,
             "topics": [
               "anki",
               "dark-theme",
@@ -1629,7 +1629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T19:36:56.295Z",
+    "last_updated": "2026-09-29T18:02:10.704Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Anki add-ons, decks and resources",
