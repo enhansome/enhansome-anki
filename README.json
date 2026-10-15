@@ -15,11 +15,11 @@
             "id": 7270538,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T14:05:08Z",
-            "open_issues": 592,
+            "last_commit": "2026-10-15T15:31:22Z",
+            "open_issues": 597,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 32006,
+            "stars": 32029,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
@@ -36,11 +36,11 @@
             "id": 7716883,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-14T12:06:54Z",
-            "open_issues": 317,
+            "last_commit": "2026-10-15T16:38:34Z",
+            "open_issues": 314,
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 12016,
+            "stars": 12018,
             "topics": [
               "android",
               "anki",
@@ -73,10 +73,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T01:10:09Z",
-            "open_issues": 624,
+            "open_issues": 627,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 374212,
+            "stars": 374319,
             "topics": [
               "design",
               "design-patterns",
@@ -214,7 +214,7 @@
             "open_issues": 8,
             "owner": "open-spaced-repetition",
             "repo": "fsrs4anki",
-            "stars": 4106,
+            "stars": 4108,
             "topics": [
               "anki",
               "anki-addon",
@@ -560,7 +560,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-01-25T16:02:56Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "jefdongus",
             "repo": "insert-symbols-anki-addon",
             "stars": 30,
@@ -1566,7 +1566,7 @@
             "open_issues": 7,
             "owner": "ikkz",
             "repo": "anki-eco",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "addon",
               "anki",
@@ -1629,7 +1629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T17:03:03.837Z",
+    "last_updated": "2026-10-15T16:51:40.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Anki add-ons, decks and resources",
@@ -1641,7 +1641,7 @@
       "open_issues": 19,
       "owner": "tianshanghong",
       "repo": "awesome-anki",
-      "stars": 2107,
+      "stars": 2108,
       "topics": [
         "anki",
         "anki-addon",
