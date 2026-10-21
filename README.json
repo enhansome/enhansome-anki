@@ -15,11 +15,11 @@
             "id": 7270538,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T16:06:22Z",
-            "open_issues": 590,
+            "last_commit": "2026-10-21T17:03:43Z",
+            "open_issues": 589,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 32148,
+            "stars": 32187,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
@@ -36,11 +36,11 @@
             "id": 7716883,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T15:36:36Z",
-            "open_issues": 346,
+            "last_commit": "2026-10-21T16:31:32Z",
+            "open_issues": 344,
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 12061,
+            "stars": 12072,
             "topics": [
               "android",
               "anki",
@@ -73,10 +73,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T01:10:09Z",
-            "open_issues": 628,
+            "open_issues": 630,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 374887,
+            "stars": 375016,
             "topics": [
               "design",
               "design-patterns",
@@ -214,7 +214,7 @@
             "open_issues": 8,
             "owner": "open-spaced-repetition",
             "repo": "fsrs4anki",
-            "stars": 4110,
+            "stars": 4111,
             "topics": [
               "anki",
               "anki-addon",
@@ -1327,7 +1327,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-12-30T20:31:50Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "kerrickstaley",
                 "repo": "genanki",
                 "stars": 2740,
@@ -1481,7 +1481,7 @@
                 "open_issues": 5,
                 "owner": "eikowagenknecht",
                 "repo": "srs-converter",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "anki",
                   "apkg",
@@ -1629,7 +1629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T16:51:56.296Z",
+    "last_updated": "2026-10-21T17:05:01.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Anki add-ons, decks and resources",
@@ -1638,7 +1638,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-01-02T01:46:09Z",
-      "open_issues": 19,
+      "open_issues": 20,
       "owner": "tianshanghong",
       "repo": "awesome-anki",
       "stars": 2109,
