@@ -15,11 +15,11 @@
             "id": 7270538,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T17:47:21Z",
-            "open_issues": 604,
+            "last_commit": "2026-11-04T18:55:10Z",
+            "open_issues": 603,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 32510,
+            "stars": 32549,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
@@ -36,11 +36,11 @@
             "id": 7716883,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-03T17:21:27Z",
-            "open_issues": 319,
+            "last_commit": "2026-11-04T18:50:02Z",
+            "open_issues": 326,
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 12156,
+            "stars": 12167,
             "topics": [
               "android",
               "anki",
@@ -73,10 +73,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T01:10:09Z",
-            "open_issues": 634,
+            "open_issues": 635,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 376695,
+            "stars": 376794,
             "topics": [
               "design",
               "design-patterns",
@@ -435,7 +435,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-31T12:16:01Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "CravingCrates",
             "repo": "AnkiCollab-Plugin",
             "stars": 141,
@@ -1330,7 +1330,7 @@
                 "open_issues": 37,
                 "owner": "kerrickstaley",
                 "repo": "genanki",
-                "stars": 2788,
+                "stars": 2792,
                 "topics": [
                   "anki",
                   "anki-flashcards"
@@ -1382,7 +1382,7 @@
                 "open_issues": 8,
                 "owner": "yannickfunk",
                 "repo": "genanki-rs",
-                "stars": 128,
+                "stars": 129,
                 "topics": [
                   "anki",
                   "anki-flashcards",
@@ -1629,7 +1629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T19:26:28.635Z",
+    "last_updated": "2026-11-04T19:40:58.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Anki add-ons, decks and resources",
@@ -1641,7 +1641,7 @@
       "open_issues": 24,
       "owner": "tianshanghong",
       "repo": "awesome-anki",
-      "stars": 2119,
+      "stars": 2118,
       "topics": [
         "anki",
         "anki-addon",
