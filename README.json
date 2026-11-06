@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-11-05T17:46:11Z",
-            "open_issues": 601,
+            "open_issues": 604,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 32592,
+            "stars": 32623,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
@@ -36,11 +36,11 @@
             "id": 7716883,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-05T18:18:52Z",
-            "open_issues": 335,
+            "last_commit": "2026-11-06T19:11:45Z",
+            "open_issues": 339,
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 12176,
+            "stars": 12178,
             "topics": [
               "android",
               "anki",
@@ -76,7 +76,7 @@
             "open_issues": 635,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 376966,
+            "stars": 377086,
             "topics": [
               "design",
               "design-patterns",
@@ -108,10 +108,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-03T12:44:54Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "anki-geo",
             "repo": "ultimate-geography",
-            "stars": 1193,
+            "stars": 1195,
             "topics": [
               "anki",
               "brain-brew",
@@ -214,7 +214,7 @@
             "open_issues": 8,
             "owner": "open-spaced-repetition",
             "repo": "fsrs4anki",
-            "stars": 4125,
+            "stars": 4127,
             "topics": [
               "anki",
               "anki-addon",
@@ -435,10 +435,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-11-05T16:59:00Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "CravingCrates",
             "repo": "AnkiCollab-Plugin",
-            "stars": 141,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
@@ -935,7 +935,7 @@
                 "id": 205250179,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-30T13:33:52Z",
+                "last_commit": "2026-11-06T07:23:56Z",
                 "open_issues": 2,
                 "owner": "lervag",
                 "repo": "apy",
@@ -1330,7 +1330,7 @@
                 "open_issues": 37,
                 "owner": "kerrickstaley",
                 "repo": "genanki",
-                "stars": 2793,
+                "stars": 2795,
                 "topics": [
                   "anki",
                   "anki-flashcards"
@@ -1518,7 +1518,7 @@
             "open_issues": 47,
             "owner": "badlydrawnrob",
             "repo": "anki",
-            "stars": 937,
+            "stars": 938,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
@@ -1629,7 +1629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T19:52:06.912Z",
+    "last_updated": "2026-11-06T19:17:05.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Anki add-ons, decks and resources",
@@ -1641,7 +1641,7 @@
       "open_issues": 24,
       "owner": "tianshanghong",
       "repo": "awesome-anki",
-      "stars": 2118,
+      "stars": 2119,
       "topics": [
         "anki",
         "anki-addon",
