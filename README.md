@@ -2,7 +2,7 @@
 
 # Awesome Anki with stars
 
-A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 32,675 | 🐛 606 | 🌐 Rust | 📅 2026-11-07 add-ons, decks and resources. Feel free to suggest new projects in [Issues](https://github.com/tianshanghong/awesome-anki/issues) or PR directly.
+A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 32,698 | 🐛 605 | 🌐 Rust | 📅 2026-11-09 add-ons, decks and resources. Feel free to suggest new projects in [Issues](https://github.com/tianshanghong/awesome-anki/issues) or PR directly.
 
 ## Table of Contents
 
@@ -28,15 +28,15 @@ A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 32,675 | 🐛 
 
 | Name       | Link                                                                                                                                                                          | Description                              |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| anki       | [![GitHub stars](https://img.shields.io/github/stars/ankitects/anki.svg)](https://github.com/ankitects/anki) ⭐ 32,675 \| 🐛 606 \| 🌐 Rust \| 📅 2026-11-07                   | Anki for desktop computers               |
-| ankidroid  | [![GitHub stars](https://img.shields.io/github/stars/ankidroid/Anki-Android.svg)](https://github.com/ankidroid/Anki-Android) ⭐ 12,195 \| 🐛 362 \| 🌐 Kotlin \| 📅 2026-11-08 | AnkiDroid: Anki on Android               |
+| anki       | [![GitHub stars](https://img.shields.io/github/stars/ankitects/anki.svg)](https://github.com/ankitects/anki) ⭐ 32,698 \| 🐛 605 \| 🌐 Rust \| 📅 2026-11-09                   | Anki for desktop computers               |
+| ankidroid  | [![GitHub stars](https://img.shields.io/github/stars/ankidroid/Anki-Android.svg)](https://github.com/ankidroid/Anki-Android) ⭐ 12,203 \| 🐛 375 \| 🌐 Kotlin \| 📅 2026-11-09 | AnkiDroid: Anki on Android               |
 | AnkiMobile | [AnkiMobile Flashcards](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8)                                                                               | Anki for iOS devices (*Not Open Source*) |
 
 ## Decks
 
-* [donnemartin/system-design-primer ![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg)](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards) ⭐ 377,333 | 🐛 643 | 🌐 Python | 📅 2026-09-15 - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+* [donnemartin/system-design-primer ![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg)](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards) ⭐ 377,451 | 🐛 645 | 🌐 Python | 📅 2026-09-15 - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
-* [axelboc/anki-ultimate-geography ![GitHub stars](https://img.shields.io/github/stars/axelboc/anki-ultimate-geography.svg)](https://github.com/axelboc/anki-ultimate-geography) ⭐ 1,199 | 🐛 60 | 🌐 Python | 📅 2026-11-03 - Geography flashcard deck having different sovereign states, overseas territories and dependent areas, oceans, seas, and continents.
+* [axelboc/anki-ultimate-geography ![GitHub stars](https://img.shields.io/github/stars/axelboc/anki-ultimate-geography.svg)](https://github.com/axelboc/anki-ultimate-geography) ⭐ 1,200 | 🐛 60 | 🌐 Python | 📅 2026-11-03 - Geography flashcard deck having different sovereign states, overseas territories and dependent areas, oceans, seas, and continents.
 
 * [taivop/anki-decks ![GitHub stars](https://img.shields.io/github/stars/taivop/anki-decks.svg)](https://github.com/taivop/anki-decks) ⭐ 257 | 🐛 0 | 📅 2019-06-07 - [Taivo Pungas](https://github.com/taivop)'s personal decks on his studies on AI and related topics.
 
@@ -56,11 +56,11 @@ A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 32,675 | 🐛 
 
 ## Add-ons
 
-* [open-spaced-repetition/fsrs4anki ![GitHub stars](https://img.shields.io/github/stars/open-spaced-repetition/fsrs4anki.svg)](https://github.com/open-spaced-repetition/fsrs4anki) ⭐ 4,127 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-08-14 - A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm.
+* [open-spaced-repetition/fsrs4anki ![GitHub stars](https://img.shields.io/github/stars/open-spaced-repetition/fsrs4anki.svg)](https://github.com/open-spaced-repetition/fsrs4anki) ⭐ 4,129 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-08-14 - A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm.
 
 * [FooSoft/anki-connect ![GitHub stars](https://img.shields.io/github/stars/FooSoft/anki-connect.svg)](https://github.com/FooSoft/anki-connect) ⚠️ Archived - Add-on to expose a remote API for creating flash cards.
 
-* [glutanimate/review-heatmap ![GitHub stars](https://img.shields.io/github/stars/glutanimate/review-heatmap.svg)](https://github.com/glutanimate/review-heatmap) ⭐ 1,315 | 🐛 100 | 🌐 Python | 📅 2022-08-04 - Adds a heatmap graph to Anki's main window which visualizes past and future card review activity, similar to the contribution view on GitHub.
+* [glutanimate/review-heatmap ![GitHub stars](https://img.shields.io/github/stars/glutanimate/review-heatmap.svg)](https://github.com/glutanimate/review-heatmap) ⭐ 1,316 | 🐛 100 | 🌐 Python | 📅 2022-08-04 - Adds a heatmap graph to Anki's main window which visualizes past and future card review activity, similar to the contribution view on GitHub.
 
 * [Stvad/CrowdAnki ![GitHub stars](https://img.shields.io/github/stars/Stvad/CrowdAnki.svg)](https://github.com/Stvad/CrowdAnki) ⭐ 645 | 🐛 76 | 🌐 Python | 📅 2026-09-18 - Plugin for Anki SRS designed to facilitate cooperation on creation of notes and decks.
 
@@ -74,11 +74,11 @@ A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 32,675 | 🐛 
 
 * [glutanimate/anki-addons-misc ![GitHub stars](https://img.shields.io/github/stars/glutanimate/anki-addons-misc.svg)](https://github.com/glutanimate/anki-addons-misc) ⭐ 183 | 🐛 78 | 🌐 Python | 📅 2024-04-07 - This repository contains a collection of the small but useful Anki add-ons. For the more detailed table of contents, please see [the descriptions of anki-addons-misc](https://github.com/glutanimate/anki-addons-misc/blob/master/docs/descriptions.md) ⭐ 183 | 🐛 78 | 🌐 Python | 📅 2024-04-07.
 
-* [CravingCrates/AnkiCollab-Plugin ![GitHub stars](https://img.shields.io/github/stars/CravingCrates/AnkiCollab-Plugin.svg)](https://github.com/CravingCrates/AnkiCollab-Plugin) ⭐ 142 | 🐛 9 | 🌐 Python | 📅 2026-11-07 - The AnkiCollab-Plugin enables users to create and share Anki flashcard decks collaboratively, streamlining the card creation process and allowing for professional revisions to improve deck quality.
+* [CravingCrates/AnkiCollab-Plugin ![GitHub stars](https://img.shields.io/github/stars/CravingCrates/AnkiCollab-Plugin.svg)](https://github.com/CravingCrates/AnkiCollab-Plugin) ⭐ 142 | 🐛 6 | 🌐 Python | 📅 2026-11-07 - The AnkiCollab-Plugin enables users to create and share Anki flashcard decks collaboratively, streamlining the card creation process and allowing for professional revisions to improve deck quality.
 
 * [krassowski/Anki-Night-Mode ![GitHub stars](https://img.shields.io/github/stars/krassowski/Anki-Night-Mode.svg)](https://github.com/krassowski/Anki-Night-Mode) ⚠️ Archived - This plugin adds the function of night mode, similar that one implemented in AnkiDroid.
 
-* [roxgib/anki-contanki ![GitHub stars](https://img.shields.io/github/stars/roxgib/anki-contanki.svg)](https://github.com/roxgib/anki-contanki) ⭐ 72 | 🐛 65 | 🌐 Python | 📅 2024-06-26 - Add-on enabling controller to review cards.
+* [roxgib/anki-contanki ![GitHub stars](https://img.shields.io/github/stars/roxgib/anki-contanki.svg)](https://github.com/roxgib/anki-contanki) ⭐ 72 | 🐛 66 | 🌐 Python | 📅 2024-06-26 - Add-on enabling controller to review cards.
 
 * [glutanimate/unified-remote-anki ![GitHub stars](https://img.shields.io/github/stars/glutanimate/unified-remote-anki.svg)](https://github.com/glutanimate/unified-remote-anki) ⭐ 31 | 🐛 2 | 🌐 Lua | 📅 2018-09-04 - A simple [custom remote](https://www.unifiedremote.com/) for [Anki](http://ankisrs.net/). Review cards while on a treadmill or across the room.
 
@@ -112,7 +112,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 32,675 | 🐛 
 
 ### Browser extensions
 
-* [ninja33/anki-dict-helper ![GitHub stars](https://img.shields.io/github/stars/ninja33/anki-dict-helper.svg)](https://github.com/ninja33/anki-dict-helper) ⭐ 404 | 🐛 14 | 🌐 JavaScript | 📅 2024-05-06 - Create Anki cards with Chrome extension automatically.
+* [ninja33/anki-dict-helper ![GitHub stars](https://img.shields.io/github/stars/ninja33/anki-dict-helper.svg)](https://github.com/ninja33/anki-dict-helper) ⭐ 405 | 🐛 14 | 🌐 JavaScript | 📅 2024-05-06 - Create Anki cards with Chrome extension automatically.
 
 * [corollari/ankiTab ![GitHub stars](https://img.shields.io/github/stars/corollari/ankiTab.svg)](https://github.com/corollari/ankiTab) ⭐ 202 | 🐛 17 | 🌐 JavaScript | 📅 2021-11-12 - Browser extension (Chrome, Firefox) that replaces the new tab page with Anki flashcards.
 
@@ -156,7 +156,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 32,675 | 🐛 
 
 ### Programming libraries
 
-* [kerrickstaley/genanki ![GitHub stars](https://img.shields.io/github/stars/kerrickstaley/genanki.svg)](https://github.com/kerrickstaley/genanki) ⭐ 2,798 | 🐛 37 | 🌐 Python | 📅 2024-12-30 - Python library for generating Anki decks.
+* [kerrickstaley/genanki ![GitHub stars](https://img.shields.io/github/stars/kerrickstaley/genanki.svg)](https://github.com/kerrickstaley/genanki) ⭐ 2,802 | 🐛 37 | 🌐 Python | 📅 2024-12-30 - Python library for generating Anki decks.
 
 * [klieret/AnkiPandas ![GitHub stars](https://img.shields.io/github/stars/klieret/AnkiPandas.svg)](https://github.com/klieret/AnkiPandas) ⭐ 156 | 🐛 26 | 🌐 Python | 📅 2026-11-03 - Python library for analysing and manipulating Anki decks using pandas dataframes.
 
@@ -168,13 +168,13 @@ A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 32,675 | 🐛 
 
 * [Archenoth/clj-anki ![GitHub stars](https://img.shields.io/github/stars/Archenoth/clj-anki.svg)](https://github.com/Archenoth/clj-anki) ⭐ 33 | 🐛 0 | 🌐 Clojure | 📅 2023-05-09 - Clojure Anki-file interaction library to read and write `*.anki2` and `*.apkg` files.
 
-* [eikowagenknecht/srs-converter ![GitHub stars](https://img.shields.io/github/stars/eikowagenknecht/srs-converter)](https://github.com/eikowagenknecht/srs-converter) ⭐ 15 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-26 - A TypeScript library for converting between different spaced repetition system (SRS) formats, including Anki (.apkg and .colpkg).
+* [eikowagenknecht/srs-converter ![GitHub stars](https://img.shields.io/github/stars/eikowagenknecht/srs-converter)](https://github.com/eikowagenknecht/srs-converter) ⭐ 15 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-09 - A TypeScript library for converting between different spaced repetition system (SRS) formats, including Anki (.apkg and .colpkg).
 
 ## Themes
 
 * [badlydrawnrob/anki ![GitHub stars](https://img.shields.io/github/stars/badlydrawnrob/anki.svg)](https://github.com/badlydrawnrob/anki) ⭐ 938 | 🐛 47 | 🌐 HTML | 📅 2026-10-11 - Anki theme for programming snippets.
 
-* [pranavdeshai/anki-prettify ![GitHub stars](https://img.shields.io/github/stars/pranavdeshai/anki-prettify.svg)](https://github.com/pranavdeshai/anki-prettify) ⭐ 550 | 🐛 10 | 🌐 SCSS | 📅 2024-08-10 - Collection of customizable Anki flashcard templates with modern and clean themes.
+* [pranavdeshai/anki-prettify ![GitHub stars](https://img.shields.io/github/stars/pranavdeshai/anki-prettify.svg)](https://github.com/pranavdeshai/anki-prettify) ⭐ 549 | 🐛 10 | 🌐 SCSS | 📅 2024-08-10 - Collection of customizable Anki flashcard templates with modern and clean themes.
 
 * [ikkz/anki-template ![GitHub stars](https://img.shields.io/github/stars/ikkz/anki-template.svg)](https://github.com/ikkz/anki-template) ⭐ 121 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-12 - Collection of customizable Anki templates designed for enhanced learning, featuring GPT integration, larger question text, dark/light modes, countdown motivation, and support for multiple-choice, true/false, and basic Q\&A formats.
 
@@ -204,4 +204,4 @@ A curated list of awesome [Anki](https://github.com/dae/anki) ⭐ 32,675 | 🐛 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
