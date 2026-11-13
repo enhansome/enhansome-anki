@@ -15,11 +15,11 @@
             "id": 7270538,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T19:37:10Z",
-            "open_issues": 603,
+            "last_commit": "2026-11-13T18:12:13Z",
+            "open_issues": 598,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 32764,
+            "stars": 32781,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
@@ -36,11 +36,11 @@
             "id": 7716883,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T16:49:07Z",
-            "open_issues": 396,
+            "last_commit": "2026-11-13T19:29:37Z",
+            "open_issues": 437,
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 12233,
+            "stars": 12241,
             "topics": [
               "android",
               "anki",
@@ -76,7 +76,7 @@
             "open_issues": 647,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 377704,
+            "stars": 377783,
             "topics": [
               "design",
               "design-patterns",
@@ -214,7 +214,7 @@
             "open_issues": 8,
             "owner": "open-spaced-repetition",
             "repo": "fsrs4anki",
-            "stars": 4134,
+            "stars": 4135,
             "topics": [
               "anki",
               "anki-addon",
@@ -248,7 +248,7 @@
             "open_issues": 124,
             "owner": "FooSoft",
             "repo": "anki-connect",
-            "stars": 2084,
+            "stars": 2083,
             "topics": [
               "anki"
             ]
@@ -271,7 +271,7 @@
             "open_issues": 100,
             "owner": "glutanimate",
             "repo": "review-heatmap",
-            "stars": 1317,
+            "stars": 1316,
             "topics": [
               "anki",
               "anki-addon"
@@ -935,8 +935,8 @@
                 "id": 205250179,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-10T13:27:18Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-13T14:27:52Z",
+                "open_issues": 3,
                 "owner": "lervag",
                 "repo": "apy",
                 "stars": 363,
@@ -1330,7 +1330,7 @@
                 "open_issues": 38,
                 "owner": "kerrickstaley",
                 "repo": "genanki",
-                "stars": 2810,
+                "stars": 2813,
                 "topics": [
                   "anki",
                   "anki-flashcards"
@@ -1629,7 +1629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T19:49:46.003Z",
+    "last_updated": "2026-11-13T19:34:10.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Anki add-ons, decks and resources",
