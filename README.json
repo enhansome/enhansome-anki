@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-11-20T15:37:56Z",
-            "open_issues": 605,
+            "open_issues": 606,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 32955,
+            "stars": 32969,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
@@ -36,11 +36,11 @@
             "id": 7716883,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-21T18:42:51Z",
-            "open_issues": 588,
+            "last_commit": "2026-11-22T14:28:31Z",
+            "open_issues": 580,
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 12304,
+            "stars": 12313,
             "topics": [
               "android",
               "anki",
@@ -76,7 +76,7 @@
             "open_issues": 646,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 378721,
+            "stars": 378807,
             "topics": [
               "design",
               "design-patterns",
@@ -111,7 +111,7 @@
             "open_issues": 58,
             "owner": "anki-geo",
             "repo": "ultimate-geography",
-            "stars": 1203,
+            "stars": 1204,
             "topics": [
               "anki",
               "brain-brew",
@@ -214,7 +214,7 @@
             "open_issues": 8,
             "owner": "open-spaced-repetition",
             "repo": "fsrs4anki",
-            "stars": 4142,
+            "stars": 4143,
             "topics": [
               "anki",
               "anki-addon",
@@ -238,13 +238,13 @@
           "description": "Add-on to expose a remote API for creating flash cards.",
           "children": [],
           "repo_info": {
-            "archived": true,
+            "archived": false,
             "description": "Anki plugin to expose a remote API for creating flash cards.",
-            "homepage": "https://foosoft.net/projects/anki-connect/",
+            "homepage": null,
             "id": 59382176,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2025-11-04T02:58:29Z",
+            "last_commit": "2026-11-22T07:16:44Z",
             "open_issues": 124,
             "owner": "FooSoft",
             "repo": "anki-connect",
@@ -435,7 +435,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-11-21T11:06:50Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "CravingCrates",
             "repo": "AnkiCollab-Plugin",
             "stars": 142,
@@ -1330,7 +1330,7 @@
                 "open_issues": 38,
                 "owner": "kerrickstaley",
                 "repo": "genanki",
-                "stars": 2822,
+                "stars": 2823,
                 "topics": [
                   "anki",
                   "anki-flashcards"
@@ -1566,7 +1566,7 @@
             "open_issues": 7,
             "owner": "ikkz",
             "repo": "anki-eco",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "addon",
               "anki",
@@ -1629,7 +1629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T19:05:19.562Z",
+    "last_updated": "2026-11-22T19:28:15.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Anki add-ons, decks and resources",
