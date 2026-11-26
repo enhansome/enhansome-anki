@@ -15,11 +15,11 @@
             "id": 7270538,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T18:44:46Z",
-            "open_issues": 606,
+            "last_commit": "2026-11-26T18:37:10Z",
+            "open_issues": 608,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 33025,
+            "stars": 33051,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:40.548Z"
@@ -36,11 +36,11 @@
             "id": 7716883,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-25T21:28:40Z",
-            "open_issues": 702,
+            "last_commit": "2026-11-26T21:14:56Z",
+            "open_issues": 718,
             "owner": "ankidroid",
             "repo": "Anki-Android",
-            "stars": 12336,
+            "stars": 12343,
             "topics": [
               "android",
               "anki",
@@ -76,7 +76,7 @@
             "open_issues": 646,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 379234,
+            "stars": 379359,
             "topics": [
               "design",
               "design-patterns",
@@ -244,11 +244,11 @@
             "id": 59382176,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T18:12:51Z",
-            "open_issues": 124,
+            "last_commit": "2026-11-26T20:38:47Z",
+            "open_issues": 0,
             "owner": "FooSoft",
             "repo": "anki-connect",
-            "stars": 2090,
+            "stars": 2091,
             "topics": [
               "anki"
             ]
@@ -1330,7 +1330,7 @@
                 "open_issues": 38,
                 "owner": "kerrickstaley",
                 "repo": "genanki",
-                "stars": 2824,
+                "stars": 2827,
                 "topics": [
                   "anki",
                   "anki-flashcards"
@@ -1629,7 +1629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T21:35:06.261Z",
+    "last_updated": "2026-11-26T21:24:26.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Anki add-ons, decks and resources",
